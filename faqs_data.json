@@ -1,0 +1,1013 @@
+[
+{
+"user_query": "What are Market Infrastructure Institutions (MIIs)?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Stock Market Infrastructure",
+"user_profile": null,
+"answer_guidance": "Market Infrastructure Institutions (MIIs) consist of Stock Exchanges, Clearing Corporations, and Depositories. A Stock Exchange assists, regulates, or controls the business of buying, selling, or dealing in securities. A Clearing Corporation handles the clearing and settlement of trades executed on stock exchange platforms. A Depository holds investors' securities in dematerialized form through a registered depository participant.",
+"actions_suggestions_next_step": [
+"Review the roles of Stock Exchanges, Clearing Corporations, and Depositories in the securities market.",
+"Refer to official SEBI and stock exchange resources for detailed information on market infrastructure institutions.",
+"Learn how trading, clearing, settlement, and depository services work together in the securities market."
+],
+"learning_outcome": "User understands the components and functions of Market Infrastructure Institutions (MIIs).",
+"feedback": null
+},
+{
+"user_query": "Who is a stock broker?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Stock Broker",
+"user_profile": null,
+"answer_guidance": "A stock broker is a registered intermediary with SEBI and a member of a stock exchange who is permitted to conduct trades on stock exchange platforms.",
+"actions_suggestions_next_step": [
+"Verify whether a stock broker is registered with SEBI before engaging their services.",
+"Understand the role of stock brokers in facilitating securities transactions.",
+"Review applicable SEBI regulations governing stock brokers."
+],
+"learning_outcome": "User understands who qualifies as a stock broker under SEBI regulations.",
+"feedback": null
+},
+{
+"user_query": "What are the requirements to be a stock broker?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Stock Broker Registration",
+"user_profile": null,
+"answer_guidance": "An applicant may be considered eligible for registration as a stock broker if it has adequate infrastructure such as office space, equipment, and manpower; has relevant experience in trading or dealing in securities; is a fit and proper person based on Schedule II of the Securities and Exchange Board of India (Intermediaries) Regulations, 2008; has obtained certification under SEBI (Certification of Associated Persons in the Securities Markets) Regulations, 2007 or as specified by SEBI; and satisfies the minimum net worth and deposit requirements specified in Schedule VI of SEBI (Stock Broker) Regulations, 1992.",
+"actions_suggestions_next_step": [
+"Review the eligibility requirements under applicable SEBI regulations.",
+"Refer to Schedule II and Schedule VI of the relevant SEBI regulations.",
+"Ensure all certification and infrastructure requirements are understood before applying."
+],
+"learning_outcome": "User understands the eligibility requirements for registration as a stock broker.",
+"feedback": null
+},
+{
+"user_query": "How does an investor know if a broker is registered?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Stock Broker Verification",
+"user_profile": null,
+"answer_guidance": "Investors can verify the registration details of stock brokers through the websites of SEBI and the respective stock exchanges. Information about SEBI-registered intermediaries is available through official regulatory sources.",
+"actions_suggestions_next_step": [
+"Check the broker's registration status on SEBI's website.",
+"Verify registration details through the relevant stock exchange.",
+"Review intermediary registration information before opening an account."
+],
+"learning_outcome": "User learns how to verify whether a stock broker is registered.",
+"feedback": null
+},
+{
+"user_query": "What are the various accounts an investor should have for trading in the securities market?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Trading Account",
+"user_profile": null,
+"answer_guidance": "An investor typically requires three accounts for trading in the securities market: a Demat Account for holding and transferring securities through a SEBI-registered depository participant, a Trading Account opened by a SEBI-registered stock broker for executing trades, and a Bank Account for making and receiving payments related to securities transactions.",
+"actions_suggestions_next_step": [
+"Understand the purpose of each account involved in securities trading.",
+"Verify that service providers are registered with the appropriate authorities.",
+"Review account opening requirements before initiating the process."
+],
+"learning_outcome": "User understands the different accounts required for securities trading and their purposes.",
+"feedback": null
+},
+{
+"user_query": "What are the Know Your Client (KYC) requirements in opening a trading account?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "KYC",
+"user_profile": null,
+"answer_guidance": "The stock broker performs the initial KYC of clients and uploads the details to the KYC Registration Agency (KRA) system. The account opening form consists of two parts. Part I captures basic KYC details of the client, while Part II collects additional information specific to the stock broker's activities. Investors are required to provide information including proof of identity and proof of address.",
+"actions_suggestions_next_step": [
+"Keep proof of identity and proof of address documents ready.",
+"Review the information required in both parts of the account opening form.",
+"Ensure KYC details are accurate and complete before submission."
+],
+"learning_outcome": "User understands the KYC requirements for opening a trading account.",
+"feedback": null
+},
+{
+"user_query": "What is meant by Unique Client Code (UCC)?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Unique Client Code",
+"user_profile": null,
+"answer_guidance": "A Unique Client Code (UCC) is a unique identity number assigned to an investor after completion of the onboarding process. Investors must use this code for every trade carried out on their behalf by a broker. To strengthen KYC norms and maintain client records, brokers are required to use UCC codes linked to the investor's PAN details.",
+"actions_suggestions_next_step": [
+"Keep the assigned UCC available for trading-related activities.",
+"Verify that the UCC is linked to the correct PAN details.",
+"Use the UCC for all trades executed through the broker."
+],
+"learning_outcome": "User understands the purpose and use of the Unique Client Code (UCC).",
+"feedback": null
+},
+{
+"user_query": "How can an investor place orders with the broker?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Trading Orders",
+"user_profile": null,
+"answer_guidance": "Investors can place orders through multiple methods. Internet-based trading allows investors to access the market through a broker's website or application and place orders directly. Mobile trading enables trading through applications downloaded on mobile devices. Investors may also use call and trade services by identifying themselves with their UCC and placing orders over the phone. Additionally, investors can visit the broker's office to place orders. Brokers are required to maintain prescribed records of order placement, including voice recordings, emails, written communications, and internet trading logs.",
+"actions_suggestions_next_step": [
+"Choose the order placement method most suitable for your needs.",
+"Keep your UCC available when using call and trade facilities.",
+"Retain records and confirmations related to trading activities."
+],
+"learning_outcome": "User understands the different methods available for placing orders through a stock broker.",
+"feedback": null
+}
+]
+[
+{
+"user_query": "What is Margin?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Margin Trading",
+"user_profile": null,
+"answer_guidance": "Margin is the amount of funds or securities that an investor has to deposit or re-pledge with the Clearing Corporation through a stock broker to cover the risk of non-payment of dues or non-delivery of securities. Stock brokers are required to send margin-related information to clients on a daily basis and maintain proper records of collateral received from clients. Clients can also log in to the website of the Clearing Corporation to view their collateral details.",
+"actions_suggestions_next_step": [
+"Review daily margin information provided by the stock broker.",
+"Verify collateral details through the Clearing Corporation's website.",
+"Understand margin obligations and collateral requirements before trading."
+],
+"learning_outcome": "User understands the purpose of margin and how collateral information is maintained and communicated.",
+"feedback": null
+},
+{
+"user_query": "What is pay-in and pay-out?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Trade Settlement",
+"user_profile": null,
+"answer_guidance": "Pay-in is the process of transferring funds or delivering securities to the Clearing Corporation to settle buy or sell trade obligations respectively. Pay-out is the process of transferring funds or delivering securities from the Clearing Corporation to settle sell or buy trade obligations respectively. Pay-in and pay-out are part of the settlement mechanism, and their scheduled dates are notified by stock exchanges from time to time.",
+"actions_suggestions_next_step": [
+"Understand the settlement cycle applicable to your trades.",
+"Monitor pay-in and pay-out schedules notified by stock exchanges.",
+"Ensure timely availability of funds and securities for settlement."
+],
+"learning_outcome": "User understands the concepts of pay-in and pay-out in the securities settlement process.",
+"feedback": null
+},
+{
+"user_query": "In case of purchase or sale of shares, when should one make payment of funds or delivery of shares?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Trade Settlement",
+"user_profile": null,
+"answer_guidance": "Payment of funds or delivery of shares for shares purchased or sold must be completed on or before the pay-in date for the relevant settlement.",
+"actions_suggestions_next_step": [
+"Check the applicable pay-in date for the settlement cycle.",
+"Arrange funds or securities before the pay-in deadline.",
+"Review settlement obligations communicated by the broker."
+],
+"learning_outcome": "User learns when funds or securities must be provided for settlement of share transactions.",
+"feedback": null
+},
+{
+"user_query": "What is Demat Debit and Pledge Instruction (DDPI)?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "DDPI",
+"user_profile": null,
+"answer_guidance": "Demat Debit and Pledge Instruction (DDPI) was introduced to mitigate misuse of Power of Attorney (PoA). DDPI may be used for: (i) transfer of securities held in the client's demat account towards settlement obligations, (ii) pledging or re-pledging securities in favour of a stock broker or clearing member to meet margin requirements, (iii) Mutual Fund transactions executed on stock exchange order entry platforms, and (iv) tendering shares in open offers through stock exchange platforms. Clients may alternatively complete settlement using a physical Delivery Instruction Slip (DIS) or electronic DIS (eDIS). DDPI is not mandatory as per SEBI or stock exchanges. Existing PoAs remain valid until revoked.",
+"actions_suggestions_next_step": [
+"Review the purposes for which DDPI may be used.",
+"Understand alternative settlement methods such as DIS and eDIS.",
+"Examine the scope of any authorization document before execution."
+],
+"learning_outcome": "User understands the purpose, permitted uses, and optional nature of DDPI.",
+"feedback": null
+},
+{
+"user_query": "What is Power of Attorney (PoA)?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Power of Attorney",
+"user_profile": null,
+"answer_guidance": "A Power of Attorney (PoA) is a document executed by a client in favour of a stock broker that authorizes the broker to operate the client's demat account and bank account for purposes specified by SEBI from time to time. PoA is not a mandatory requirement as per SEBI or stock exchanges.",
+"actions_suggestions_next_step": [
+"Carefully review the scope of authority granted through a PoA.",
+"Understand the purposes for which a broker may use a PoA.",
+"Refer to applicable SEBI guidance regarding PoA usage."
+],
+"learning_outcome": "User understands the purpose and non-mandatory nature of a Power of Attorney in securities trading.",
+"feedback": null
+},
+{
+"user_query": "What is the pledge/re-pledge mechanism?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Pledge Re-Pledge Mechanism",
+"user_profile": null,
+"answer_guidance": "Under the pledge/re-pledge mechanism, margin obligations in the form of securities are met through pledge or re-pledge in the depository system. Transfer of title of securities to the collateral demat account of the stock broker or clearing member for margin purposes is not permitted. The securities remain in the client's demat account, the pledge is created with the client's consent, and the securities do not move out of the client's account. Clients can view collateral placed with the Clearing Corporation through the respective Clearing Corporation's website.",
+"actions_suggestions_next_step": [
+"Review how pledged securities are handled within the depository system.",
+"Verify collateral information through the relevant Clearing Corporation.",
+"Understand client consent requirements for creating pledges."
+],
+"learning_outcome": "User understands how the pledge/re-pledge mechanism works for meeting margin obligations.",
+"feedback": null
+},
+{
+"user_query": "How is a client's account settled?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Account Settlement",
+"user_profile": null,
+"answer_guidance": "Payout of funds to clients should be made by the broker within 1 working day of the payout. If the client has opted for a running account, the account is settled on the first Friday of the relevant quarter or month based on the client's preference.",
+"actions_suggestions_next_step": [
+"Check whether a running account option has been selected.",
+"Review settlement timelines communicated by the broker.",
+"Monitor receipt of payouts after settlement."
+],
+"learning_outcome": "User understands the timelines for settlement of client accounts.",
+"feedback": null
+},
+{
+"user_query": "When is the running account settlement of clients' funds carried out?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Running Account Settlement",
+"user_profile": null,
+"answer_guidance": "For clients who opt for quarterly running account settlement, settlement is carried out on the first Friday of January, April, July, October, and subsequent quarters after considering End of Day (EoD) fund obligations across stock exchanges. If the first Friday is a trading holiday, settlement occurs on the previous trading day. For clients opting for monthly settlement, settlement is carried out on the first Friday of every month, or the previous trading day if the first Friday is a trading holiday. For clients who have not conducted any transaction in the previous 30 calendar days and have a credit balance, the stock broker must return the credit balance within the next three working days regardless of the previous running account settlement date.",
+"actions_suggestions_next_step": [
+"Confirm whether monthly or quarterly settlement has been selected.",
+"Review settlement schedules and account statements regularly.",
+"Track credit balances and settlement-related communications from the broker."
+],
+"learning_outcome": "User understands the timing and conditions for running account settlement of client funds.",
+"feedback": null
+}
+]
+[
+{
+"user_query": "How does an investor know that his trade has been executed?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Contract Note",
+"user_profile": null,
+"answer_guidance": "For every trade executed on a stock exchange, the stock broker must issue a contract note within 24 hours from the date of execution of the trade. Investors may choose either electronic contract notes (ECN) or physical contract notes during onboarding. Electronic contract notes should be digitally signed. If an investor is unable to view an ECN, the broker must ensure that a physical contract note is delivered within the stipulated time. Investors should review contract notes and immediately report any discrepancies to the broker. Stock exchanges also send SMS and email alerts to retail investors regarding transactions on trading days. Investors should ensure that their email address and mobile number are updated with their stock broker.",
+"actions_suggestions_next_step": [
+"Review contract notes received after each trade.",
+"Verify that electronic contract notes are digitally signed.",
+"Keep mobile number and email address updated with the stock broker.",
+"Report discrepancies in trade records to the broker promptly."
+],
+"learning_outcome": "User understands how to verify whether a trade has been executed and documented.",
+"feedback": null
+},
+{
+"user_query": "What is an auction?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Auction Settlement",
+"user_profile": null,
+"answer_guidance": "If a seller defaults in delivering shares, the Clearing Corporation places the undelivered shares in an auction process. The Clearing Corporation purchases the required quantity of shares in the auction market and provides them to the buying stock broker. Any shortage is addressed through the auction process. The difference between the price mentioned in the contract note and the price obtained through the auction is paid to the Clearing Corporation by the selling stock broker and may be recovered from the client.",
+"actions_suggestions_next_step": [
+"Understand settlement obligations related to share delivery.",
+"Review contract notes and settlement records for transactions.",
+"Learn how auction mechanisms are used to address delivery shortages."
+],
+"learning_outcome": "User understands how the auction process resolves share delivery defaults.",
+"feedback": null
+},
+{
+"user_query": "What is the maximum brokerage that a broker can charge?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Brokerage Charges",
+"user_profile": null,
+"answer_guidance": "The maximum brokerage charge varies by segment as per BSE and NSE Bye Laws. In the Capital Market Segment, the maximum brokerage is 2.5% of the contract price exclusive of statutory levies. Where the purchase or sale value of a share is Rs.10 or less, a maximum brokerage of 25 paise per share may be charged. For Futures contracts, the maximum brokerage is 2.5% of the contract value exclusive of statutory levies. For Option contracts, brokerage is charged on the premium amount and not on the strike price. Brokerage on option contracts shall not exceed 2.5% of the premium amount or Rs.100 per lot, whichever is higher. In the derivatives segment, brokerage can only be charged on trades executed on the stock exchange and cannot be levied on expiry, exercise, or assignment of contracts.",
+"actions_suggestions_next_step": [
+"Review the brokerage schedule provided by the stock broker.",
+"Understand brokerage limits applicable to different market segments.",
+"Compare actual charges with the prescribed limits and tariff sheet."
+],
+"learning_outcome": "User understands the maximum brokerage limits applicable across different trading segments.",
+"feedback": null
+},
+{
+"user_query": "How do I know the charges that can be levied on the investor by a stock broker?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Brokerage Charges",
+"user_profile": null,
+"answer_guidance": "Stock brokers are required to provide a tariff sheet to every client during onboarding. The tariff sheet contains all charges that may be levied by the broker. These may include brokerage charges, penalties arising from specific client defaults, service tax as stipulated, Securities Transaction Tax (STT) as applicable, and applicable Stamp Duty.",
+"actions_suggestions_next_step": [
+"Obtain and review the tariff sheet during onboarding.",
+"Check all applicable charges before initiating transactions.",
+"Maintain records of brokerage and statutory charges for reference."
+],
+"learning_outcome": "User learns where to find information about charges levied by a stock broker.",
+"feedback": null
+},
+{
+"user_query": "Who is an Authorised Person (AP)?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Authorised Person",
+"user_profile": null,
+"answer_guidance": "An Authorised Person (AP) is an individual, partnership firm, LLP, or body corporate appointed by a stock broker to provide access to the trading platform of a stock exchange as an agent of the stock broker. Information about the broker with whom the Authorised Person is registered can be verified through the websites of the relevant stock exchanges.",
+"actions_suggestions_next_step": [
+"Verify the registration details of an Authorised Person through stock exchange websites.",
+"Understand the relationship between the Authorised Person and the stock broker.",
+"Review official records before engaging with an Authorised Person."
+],
+"learning_outcome": "User understands who qualifies as an Authorised Person and how to verify registration details.",
+"feedback": null
+},
+{
+"user_query": "What is Margin Trading Facility?",
+"domain_category": "Credit and Borrowing",
+"subdomain": "Margin Trading Facility",
+"user_profile": null,
+"answer_guidance": "Margin Trading Facility (MTF) refers to the purchase of shares and securities by paying a margin in the form of funds or securities from the investor's available resources while the remaining amount is funded through resources borrowed from stock brokers. It is a leveraging mechanism that allows investors to obtain market exposure beyond what is possible using only their own resources. SEBI prescribes eligibility conditions and procedural requirements for MTF from time to time.",
+"actions_suggestions_next_step": [
+"Review SEBI-prescribed eligibility conditions for Margin Trading Facility.",
+"Understand the leverage and borrowing mechanism involved in MTF.",
+"Refer to official broker and regulatory documentation for procedural details."
+],
+"learning_outcome": "User understands the concept and functioning of Margin Trading Facility.",
+"feedback": null
+}
+]
+[
+{
+"user_query": "What are the major Dos and Don'ts of an investor?",
+"domain_category": "Fraud and Cyber Security",
+"subdomain": "Investor Protection",
+"user_profile": null,
+"answer_guidance": "Investors should ensure that the broker is registered with SEBI, verify the broker's credentials, read all documents before signing, obtain copies of KYC documents, account opening documents and UCC, and understand all brokerage, fees, and charges. Investors should ensure that contract notes are issued within 24 hours of trade execution, follow up on delayed payouts, and use grievance redressal mechanisms such as SCORES when required. Copies of DDPI or PoA, if executed, should be obtained and reviewed carefully. Investors should regularly review account statements, register mobile numbers and email addresses for alerts, and attend investor awareness programs. Investors should not rely on fixed or guaranteed return schemes, should not share usernames, passwords, or OTPs, should not transfer securities to brokers for margin purposes under the pledge-repledge mechanism, and should avoid fraudulent messages promising large profits.",
+"actions_suggestions_next_step": [
+"Verify broker registration and credentials before opening an account.",
+"Review all account documents, statements, and contract notes regularly.",
+"Register and monitor transaction alerts through email and mobile notifications.",
+"Protect account credentials and OTPs from unauthorized access.",
+"Refer to the investor charter and grievance redressal mechanisms when needed."
+],
+"learning_outcome": "User understands important investor protection practices and precautions while dealing with stock brokers.",
+"feedback": null
+},
+{
+"user_query": "What is the investor charter for stock brokers?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Investor Charter",
+"user_profile": null,
+"answer_guidance": "The investor charter for stock brokers is a document prepared by SEBI in consultation with market participants to improve investor awareness. It covers services provided to investors, investor rights, account opening procedures, KYC and in-person verification requirements, complaint resolution mechanisms, issuance of contract notes and statements, dematerialization and rematerialization processes, timelines for various activities, investor dos and don'ts, and grievance redressal mechanisms. Stock brokers are required to publish the charter on their websites and provide copies to clients through email or other communication channels.",
+"actions_suggestions_next_step": [
+"Review the investor charter provided by the stock broker.",
+"Understand investor rights and grievance redressal procedures.",
+"Refer to the charter for timelines and service standards applicable to brokers."
+],
+"learning_outcome": "User understands the purpose and contents of the investor charter for stock brokers.",
+"feedback": null
+},
+{
+"user_query": "What avenues are available to an investor for grievance redressal?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Grievance Redressal",
+"user_profile": null,
+"answer_guidance": "Investors may first approach the stock broker using the internal escalation matrix available on the broker's website. The stock broker should strive to resolve the grievance immediately and no later than 30 days from receipt of the complaint. If unresolved, investors may approach the relevant stock exchange through its grievance redressal mechanism. Complaints that remain unresolved at the broker or stock exchange level may be lodged with SEBI through SCORES, the web-based centralized grievance redressal system.",
+"actions_suggestions_next_step": [
+"Contact the stock broker using the published escalation process.",
+"Approach the relevant stock exchange if the complaint remains unresolved.",
+"Use the SCORES platform for complaints not resolved through earlier channels."
+],
+"learning_outcome": "User understands the escalation process available for resolving grievances related to stock brokers.",
+"feedback": null
+},
+{
+"user_query": "What is Arbitration?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Arbitration",
+"user_profile": null,
+"answer_guidance": "Arbitration is an alternative dispute resolution mechanism provided by stock exchanges for resolving disputes between stock brokers and their clients relating to trades executed on the exchange.",
+"actions_suggestions_next_step": [
+"Review the stock exchange's arbitration framework.",
+"Understand when arbitration may be used for dispute resolution.",
+"Refer to stock exchange procedures before initiating arbitration."
+],
+"learning_outcome": "User understands the purpose of arbitration in resolving disputes between investors and stock brokers.",
+"feedback": null
+},
+{
+"user_query": "What is the process for filing arbitration?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Arbitration",
+"user_profile": null,
+"answer_guidance": "Investors may file an arbitration application online or submit a physical application to the relevant stock exchange in accordance with the exchange's byelaws. Arbitration application forms are available on stock exchange websites. The parties provide their preferred arbitrators in descending order of preference from the approved panel. Based on the preferences provided, a common arbitrator pool system automatically appoints the required number of arbitrators for the matter.",
+"actions_suggestions_next_step": [
+"Obtain the arbitration application form from the stock exchange.",
+"Review the applicable arbitration procedures and byelaws.",
+"Prepare arbitrator preferences from the approved panel if required."
+],
+"learning_outcome": "User understands the procedure for initiating arbitration through a stock exchange.",
+"feedback": null
+},
+{
+"user_query": "What happens if an investor is aggrieved by the award of the arbitrator?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Arbitration Appeal",
+"user_profile": null,
+"answer_guidance": "If an investor is dissatisfied with an arbitral award, the investor may use the appeal provisions within one month from the date of receipt of the arbitral award. If dissatisfied with the appellate arbitral award, the investor may challenge the award under Section 34 of the Arbitration and Conciliation Act, 1996 before a court of law.",
+"actions_suggestions_next_step": [
+"Review the appeal provisions available after receipt of an arbitral award.",
+"Note the one-month timeline for filing an appeal.",
+"Refer to the Arbitration and Conciliation Act, 1996 for further legal provisions."
+],
+"learning_outcome": "User understands the available appeal mechanisms against arbitral awards.",
+"feedback": null
+},
+{
+"user_query": "What is the Investor Protection Fund (IPF) of stock exchanges?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Investor Protection Fund",
+"user_profile": null,
+"answer_guidance": "Every stock exchange is required to establish an Investor Protection Fund (IPF) to compensate investors when a defaulter's assets are insufficient to satisfy admitted investor claims and to promote investor education, awareness, and research. The IPF is administered through a registered trust. The trust seeks to compensate investors of stock brokers declared as defaulters when eligible claims arise.",
+"actions_suggestions_next_step": [
+"Learn about the eligibility criteria for compensation under the IPF.",
+"Review stock exchange rules governing investor protection claims.",
+"Refer to stock exchange resources on investor education and awareness."
+],
+"learning_outcome": "User understands the purpose and function of the Investor Protection Fund.",
+"feedback": null
+},
+{
+"user_query": "When can a broker be declared a defaulter?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Broker Default",
+"user_profile": null,
+"answer_guidance": "A stock broker may be declared a defaulter when the broker is unable to meet payment obligations to clients, fails to deliver required securities to a client's demat account, is declared a defaulter by another exchange due to fraudulent activities, or fails to comply with arbitration proceedings under the stock exchange's bye laws, rules, and regulations.",
+"actions_suggestions_next_step": [
+"Monitor communications issued by stock exchanges regarding broker defaults.",
+"Review applicable stock exchange rules on default proceedings.",
+"Understand investor rights in the event of a broker default."
+],
+"learning_outcome": "User understands the circumstances under which a stock broker may be declared a defaulter.",
+"feedback": null
+},
+{
+"user_query": "How can an investor file a claim with stock exchanges regarding a broker default?",
+"domain_category": "Banking & Digital Payments",
+"subdomain": "Broker Default Claim",
+"user_profile": null,
+"answer_guidance": "Investor claims in broker default matters are handled by the relevant stock exchange according to its rules, regulations, and bye laws. Public notices are issued in newspapers inviting claims from investors. Investors may submit claims online through the stock exchange website or submit offline claim forms obtained from investor service centres or downloaded from the stock exchange website.",
+"actions_suggestions_next_step": [
+"Watch for public notices issued by stock exchanges regarding default claims.",
+"Obtain the required claim forms from the stock exchange or investor service centre.",
+"Review claim submission requirements before filing."
+],
+"learning_outcome": "User understands how to submit a claim to a stock exchange in the event of a broker default.",
+"feedback": null
+}
+]
+[
+{
+"user_query": "What is a Mutual Fund?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Mutual Funds",
+"user_profile": null,
+"answer_guidance": "A mutual fund is a mechanism that pools money from investors by issuing units and invests the collected funds in securities according to the objectives disclosed in the offer document. Investments are spread across different industries and sectors, which helps diversify risk. Mutual funds issue units based on the amount invested, and investors are known as unitholders. Profits and losses are shared among investors in proportion to their investments. Mutual funds offer multiple schemes with different investment objectives and must be registered with SEBI before collecting funds from the public.",
+"actions_suggestions_next_step": [
+"Review the offer document of a mutual fund scheme before investing.",
+"Understand the investment objectives and risks associated with a scheme.",
+"Verify that the mutual fund is registered with SEBI."
+],
+"learning_outcome": "User understands the basic concept, structure, and functioning of a mutual fund.",
+"feedback": null
+},
+{
+"user_query": "What is the history of Mutual Funds in India and what is the role of SEBI in the mutual fund industry?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Mutual Funds",
+"user_profile": null,
+"answer_guidance": "Unit Trust of India was the first mutual fund established in India in 1963. In the late 1980s, public sector banks and institutions were allowed to establish mutual funds. The SEBI Act was passed in 1992 with the objectives of protecting investor interests, promoting the development of the securities market, and regulating it. SEBI notified mutual fund regulations in 1993 and subsequently allowed private sector mutual funds to enter the capital market. The regulations were comprehensively revised in 1996 and have been amended from time to time. SEBI formulates policies, regulates, supervises, monitors, and inspects mutual funds, and issues directions through circulars to protect investor interests. All mutual funds, whether promoted by public sector, private sector, or foreign entities, are governed by the same regulations.",
+"actions_suggestions_next_step": [
+"Review SEBI regulations applicable to mutual funds.",
+"Refer to official SEBI publications for regulatory updates.",
+"Understand the regulatory framework governing mutual funds in India."
+],
+"learning_outcome": "User understands the evolution of the mutual fund industry in India and SEBI's regulatory role.",
+"feedback": null
+},
+{
+"user_query": "How is a mutual fund set up?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Mutual Fund Registration",
+"user_profile": null,
+"answer_guidance": "A mutual fund is established as a trust consisting of a sponsor, trustees, an Asset Management Company (AMC), and a custodian. The sponsor acts similarly to a company promoter and establishes the trust. Trustees hold the property of the mutual fund for the benefit of unitholders and supervise the AMC. The AMC, approved by SEBI, manages investments in securities. The custodian, registered with SEBI, holds the securities of the schemes in custody. SEBI regulations require that at least two-thirds of the directors of the trustee company be independent and not associated with the sponsors. Additionally, fifty per cent of the directors on the AMC board must be independent and not associated with the sponsor, its subsidiaries, or the trustees. All mutual funds must be registered with SEBI before launching any scheme.",
+"actions_suggestions_next_step": [
+"Understand the roles of sponsors, trustees, AMCs, and custodians.",
+"Review SEBI requirements governing mutual fund structure and governance.",
+"Verify SEBI registration status of a mutual fund before considering its schemes."
+],
+"learning_outcome": "User understands the organizational structure and regulatory requirements for setting up a mutual fund.",
+"feedback": null
+},
+{
+"user_query": "What is Net Asset Value (NAV) of a scheme?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Mutual Funds",
+"user_profile": null,
+"answer_guidance": "Net Asset Value (NAV) is the unit price of a mutual fund scheme and indicates the price at which investors buy or redeem mutual fund units. NAV is calculated by dividing the net assets of the scheme by the total number of outstanding units. Net assets are determined as Total Assets minus Total Liabilities. For example, if a scheme has total assets of INR 200 lakh, total liabilities of INR 10 lakh, and 10 lakh outstanding units, the net assets are INR 190 lakh and the NAV is INR 19 per unit. NAV changes daily due to fluctuations in the market value of the securities held by the scheme and must be disclosed daily by mutual funds. NAV disclosure timelines are: all schemes other than specified categories by 11 PM on T day; schemes with exposure to Exchange Traded Commodity Derivatives by 9 AM on T+1 day; Fund of Funds schemes by 10 AM on T+1 day; schemes investing at least 80% of total assets in permissible overseas investments by 10 AM on T+1 day; and for schemes unable to disclose NAV within prescribed timelines due to valuation constraints, disclosure is made according to the timing specified in the Scheme Information Document (SID) along with reasons for the delay.",
+"actions_suggestions_next_step": [
+"Review NAV disclosures published by mutual funds.",
+"Understand how NAV is calculated and updated.",
+"Refer to the Scheme Information Document for NAV disclosure practices and timelines."
+],
+"learning_outcome": "User understands the meaning, calculation, and disclosure timelines of Net Asset Value (NAV).",
+"feedback": null
+}
+]
+[
+{
+"user_query": "What is cut-off timing and what is its role in determining the applicable NAV for transactions in mutual fund schemes?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Mutual Funds",
+"user_profile": null,
+"answer_guidance": "Cut-off timing is the time prescribed by SEBI for determining the applicable Net Asset Value (NAV) for purchase, redemption, and switch transactions in mutual fund schemes. For Liquid and Overnight Funds, the purchase and switch-in cut-off time is 1:30 PM and the redemption and switch-out cut-off time is 3:00 PM. For Equity Oriented Funds and Debt Funds (except Liquid and Overnight Funds), the cut-off time for purchases, switch-ins, redemptions, and switch-outs is 3:00 PM. The applicable NAV depends on the type of scheme, the time the application is received, and when funds become available for utilization. SEBI has prescribed uniform cut-off timings to ensure fairness to investors.",
+"actions_suggestions_next_step": [
+"Review the cut-off timing applicable to the mutual fund scheme.",
+"Understand how fund realization affects the applicable NAV.",
+"Refer to the Scheme Information Document for transaction processing details."
+],
+"learning_outcome": "User understands how cut-off timings influence the NAV applicable to mutual fund transactions.",
+"feedback": null
+},
+{
+"user_query": "What are the different types of mutual fund schemes?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Mutual Funds",
+"user_profile": null,
+"answer_guidance": "Mutual fund schemes may be classified based on maturity period or investment objective. Based on maturity period, schemes may be Open-ended or Close-ended. Open-ended schemes allow continuous subscription and repurchase and do not have a fixed maturity period. Close-ended schemes have a fixed maturity period specified in the offer documents and are generally available for subscription only during a specified period at launch. Based on investment objectives, schemes may include Growth or Equity Oriented Schemes, Income or Debt Oriented Schemes, Balanced or Hybrid Schemes, Money Market or Liquid Schemes, Gilt Funds, and Index Funds. Each category differs in investment approach, risk profile, liquidity, and return characteristics.",
+"actions_suggestions_next_step": [
+"Review the investment objective of a scheme before investing.",
+"Understand the maturity structure and liquidity features of different scheme types.",
+"Refer to the offer documents for scheme-specific details."
+],
+"learning_outcome": "User understands the major classifications of mutual fund schemes based on maturity and investment objectives.",
+"feedback": null
+},
+{
+"user_query": "What is an Open-ended Fund or Scheme?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Open-Ended Mutual Fund",
+"user_profile": null,
+"answer_guidance": "An Open-ended Fund or Scheme is a mutual fund scheme that is available for subscription and repurchase on a continuous basis and does not have a fixed maturity period. Investors can buy and sell units at the Net Asset Value (NAV) declared daily. Liquidity is the key feature of an open-ended scheme.",
+"actions_suggestions_next_step": [
+"Review the liquidity features of open-ended schemes.",
+"Check daily NAV disclosures before transacting.",
+"Read the scheme documents to understand investment objectives and risks."
+],
+"learning_outcome": "User understands the characteristics and liquidity benefits of open-ended mutual fund schemes.",
+"feedback": null
+},
+{
+"user_query": "What is a Close-ended Fund or Scheme?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Close-Ended Mutual Fund",
+"user_profile": null,
+"answer_guidance": "A Close-ended Fund or Scheme has a fixed maturity period specified in the offer documents at the time of launch. The scheme is open for subscription only during a specified period. After the new fund offer period, investors may buy or sell units on stock exchanges where the units are listed. Some close-ended schemes also provide an option to sell units back to the mutual fund through periodic repurchases at NAV-related prices, as disclosed in the offer documents.",
+"actions_suggestions_next_step": [
+"Review the maturity period and exit options of the scheme.",
+"Check whether the scheme is listed on a stock exchange.",
+"Refer to offer documents for repurchase and redemption provisions."
+],
+"learning_outcome": "User understands the structure and trading mechanisms of close-ended mutual fund schemes.",
+"feedback": null
+},
+{
+"user_query": "What is a Growth or Equity Oriented Scheme?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Equity Mutual Fund",
+"user_profile": null,
+"answer_guidance": "Growth or Equity Oriented Schemes aim to provide capital appreciation over the medium to long term. These schemes generally invest a major portion of their corpus in equities and therefore carry comparatively higher risks. Such schemes may offer options such as growth and dividend options, and investors can choose the option according to their preferences. Mutual funds may also permit investors to change options later.",
+"actions_suggestions_next_step": [
+"Review the investment objective and risk profile of the scheme.",
+"Understand available investment options within the scheme.",
+"Refer to scheme documents for details on investment allocation."
+],
+"learning_outcome": "User understands the objective and characteristics of growth or equity oriented mutual fund schemes.",
+"feedback": null
+},
+{
+"user_query": "What is an Income or Debt Oriented Scheme?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Debt Mutual Fund",
+"user_profile": null,
+"answer_guidance": "Income or Debt Oriented Schemes aim to provide regular and steady income. These schemes generally invest in fixed-income securities such as bonds, corporate debentures, government securities, and money market instruments. They are generally less risky than equity-oriented schemes, although opportunities for capital appreciation may be limited. The NAV of such schemes may fluctuate due to changes in interest rates.",
+"actions_suggestions_next_step": [
+"Understand the types of securities held by debt-oriented schemes.",
+"Review interest-rate-related risks disclosed in scheme documents.",
+"Examine the investment objective before investing."
+],
+"learning_outcome": "User understands the purpose and investment characteristics of income or debt oriented schemes.",
+"feedback": null
+},
+{
+"user_query": "What is a Balanced or Hybrid Scheme?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Hybrid Mutual Fund",
+"user_profile": null,
+"answer_guidance": "Balanced or Hybrid Schemes seek to provide both growth and regular income by investing in a combination of equities and fixed-income securities in proportions disclosed in the offer documents. These schemes generally invest 40-60% in equity and debt instruments and are intended to provide moderate growth. Their NAVs are generally less volatile than those of pure equity funds.",
+"actions_suggestions_next_step": [
+"Review the asset allocation specified in the offer documents.",
+"Understand how equity and debt investments affect risk and return characteristics.",
+"Compare scheme objectives with available disclosures."
+],
+"learning_outcome": "User understands the objective and asset allocation approach of balanced or hybrid schemes.",
+"feedback": null
+},
+{
+"user_query": "What are Money Market or Liquid Schemes?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Liquid Fund",
+"user_profile": null,
+"answer_guidance": "Money Market or Liquid Schemes aim to provide liquidity, preservation of capital, and moderate income. These schemes invest in short-term instruments such as treasury bills, certificates of deposit, commercial paper, inter-bank call money, and government securities. Returns generally fluctuate less compared to many other mutual fund categories.",
+"actions_suggestions_next_step": [
+"Review the types of short-term instruments held by the scheme.",
+"Understand the liquidity and capital preservation features of liquid schemes.",
+"Refer to scheme disclosures for investment details."
+],
+"learning_outcome": "User understands the purpose and investment approach of money market and liquid schemes.",
+"feedback": null
+},
+{
+"user_query": "What are Gilt Funds?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Gilt Fund",
+"user_profile": null,
+"answer_guidance": "Gilt Funds invest exclusively in government securities. Government securities carry no default risk. However, the NAV of these schemes may fluctuate because of changes in interest rates and other economic factors, similar to other income or debt-oriented schemes.",
+"actions_suggestions_next_step": [
+"Review the investment policy of the gilt fund.",
+"Understand the impact of interest-rate movements on NAV.",
+"Refer to scheme documents for risk disclosures."
+],
+"learning_outcome": "User understands the investment focus and risk characteristics of gilt funds.",
+"feedback": null
+},
+{
+"user_query": "What are Index Funds?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Index Fund",
+"user_profile": null,
+"answer_guidance": "Index Funds replicate the portfolio of a specified market index such as the Sensex or Nifty by investing in securities in the same weightage as the index. The NAV of an index fund generally rises or falls with the underlying index, although differences may occur because of tracking error. Tracking error refers to the annualized standard deviation of the difference in daily returns between the underlying index and the NAV of the index fund.",
+"actions_suggestions_next_step": [
+"Review the benchmark index tracked by the fund.",
+"Understand the concept of tracking error.",
+"Refer to offer documents for index replication methodology."
+],
+"learning_outcome": "User understands how index funds operate and the concept of tracking error.",
+"feedback": null
+},
+{
+"user_query": "What are Sectoral Funds and Thematic Funds?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Sectoral and Thematic Funds",
+"user_profile": null,
+"answer_guidance": "Sectoral Funds invest in stocks belonging to a specific sector of the economy, such as banking, Information Technology, or pharmaceuticals. Their returns depend largely on the performance of the selected sector. Thematic Funds invest across companies and sectors connected by a common theme such as infrastructure, energy, multinational corporations, or public sector undertakings. Compared with sectoral funds, thematic funds are broader in scope because they may invest across multiple sectors linked by a common idea or trend.",
+"actions_suggestions_next_step": [
+"Review the sector or theme underlying the scheme.",
+"Understand how concentration in a sector or theme may affect performance.",
+"Refer to scheme disclosures for investment scope and objectives."
+],
+"learning_outcome": "User understands the differences between sectoral funds and thematic funds.",
+"feedback": null
+},
+{
+"user_query": "Are there any mutual fund schemes launched with the objective of providing tax benefits?",
+"domain_category": "Savings and Insurance",
+"subdomain": "ELSS",
+"user_profile": null,
+"answer_guidance": "Yes. Certain mutual fund schemes known as Equity Linked Savings Schemes (ELSS) are eligible for deduction under Section 80C of the Income Tax Act, 1961 under the Old Tax Regime. ELSS schemes are governed by the Equity Linked Saving Scheme, 2005 notified by the Ministry of Finance. These schemes are growth-oriented and invest predominantly in equities. Certain mutual fund retirement schemes have also been notified for tax benefits under Section 80C. The provisions relating to income tax deductions are governed by the Income Tax Act, 1961 and may be amended from time to time.",
+"actions_suggestions_next_step": [
+"Review the eligibility conditions under Section 80C of the Income Tax Act, 1961.",
+"Refer to the scheme documents for investment objectives and features.",
+"Check the latest tax provisions applicable to mutual fund schemes."
+],
+"learning_outcome": "User understands which mutual fund schemes may qualify for tax benefits under Section 80C.",
+"feedback": null
+},
+{
+"user_query": "What is a Fund of Funds (FoF) scheme?",
+"domain_category": "Savings and Insurance",
+"subdomain": "Fund of Funds",
+"user_profile": null,
+"answer_guidance": "A Fund of Funds (FoF) scheme primarily invests in units of other schemes of the same mutual fund or other mutual funds. By investing through a FoF scheme, investors may achieve broader diversification because risks are spread across a larger universe of underlying schemes.",
+"actions_suggestions_next_step": [
+"Review the underlying schemes in which the FoF invests.",
+"Understand how diversification is achieved through a FoF structure.",
+"Refer to scheme disclosures for portfolio composition."
+],
+"learning_outcome": "User understands the purpose and structure of a Fund of Funds scheme.",
+"feedback": null
+},
+{
+"user_query": "What are Exchange Traded Funds (ETFs)?",
+"domain_category": "Savings and Insurance",
+"subdomain": "ETF",
+"user_profile": null,
+"answer_guidance": "Exchange Traded Funds (ETFs) are mutual fund units that are bought and sold on stock exchanges. Unlike conventional mutual fund units that are purchased or redeemed through the mutual fund, ETFs trade on exchanges throughout the trading day. Units are issued to designated Authorised Participants (APs), who provide buy and sell quotes on the exchange. ETF prices change throughout the day based on market trading activity. Investors require both a demat account and a trading account to buy or sell ETFs.",
+"actions_suggestions_next_step": [
+"Understand the operational differences between ETFs and traditional mutual funds.",
+"Verify the requirement for demat and trading accounts before investing in ETFs.",
+"Review ETF disclosures and trading mechanisms."
+],
+"learning_outcome": "User understands how Exchange Traded Funds operate and how they are traded.",
+"feedback": null
+}
+]
+[
+  {
+    "user_query": "What is a Mutual Fund?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "A mutual fund is a mechanism that pools money from investors by issuing units and invests those funds in securities according to the objectives disclosed in the offer document. Investments are spread across different industries and sectors, helping diversify risk. Investors are known as unitholders and share profits or losses in proportion to their investments. Mutual funds launch various schemes with different investment objectives and must be registered with SEBI before collecting funds from the public.",
+    "actions_suggestions_next_step": [
+      "Review the offer document of a mutual fund scheme before investing.",
+      "Understand the investment objective and associated risks of the scheme.",
+      "Verify that the mutual fund is registered with SEBI."
+    ],
+    "learning_outcome": "User understands the concept, structure, and purpose of a mutual fund.",
+    "feedback": null
+  },
+  {
+    "user_query": "What is the history of Mutual Funds in India and what is SEBI's role in the mutual fund industry?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Unit Trust of India was the first mutual fund established in India in 1963. In the late 1980s, public sector banks and institutions were allowed to set up mutual funds. The SEBI Act was passed in 1992 to protect investors and regulate the securities market. SEBI issued mutual fund regulations in 1993 and revised them in 1996, with amendments thereafter. SEBI regulates, supervises, and monitors all mutual funds, including those promoted by public sector, private sector, and foreign entities, under a common regulatory framework.",
+    "actions_suggestions_next_step": [
+      "Review SEBI regulations governing mutual funds.",
+      "Refer to official SEBI publications for investor protection measures.",
+      "Understand the regulatory framework before investing."
+    ],
+    "learning_outcome": "User learns about the evolution of mutual funds in India and SEBI's regulatory role.",
+    "feedback": null
+  },
+  {
+    "user_query": "How is a mutual fund set up?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "A mutual fund is established as a trust consisting of a sponsor, trustees, an Asset Management Company (AMC), and a custodian. The sponsor establishes the trust, trustees hold assets for the benefit of unitholders, the AMC manages investments, and the custodian holds securities in custody. SEBI regulations require independence among trustees and AMC directors, and all mutual funds must be registered with SEBI before launching schemes.",
+    "actions_suggestions_next_step": [
+      "Review the organizational structure of a mutual fund before investing.",
+      "Check whether the AMC and mutual fund are registered with SEBI.",
+      "Understand the roles of trustees and custodians."
+    ],
+    "learning_outcome": "User understands the organizational structure and governance of a mutual fund.",
+    "feedback": null
+  },
+  {
+    "user_query": "What is Net Asset Value (NAV) of a mutual fund scheme?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Net Asset Value (NAV) is the unit price of a mutual fund scheme and indicates the price at which investors buy or redeem units. NAV is calculated by dividing the net assets of the scheme (Total Assets minus Total Liabilities) by the total outstanding units. NAV changes daily based on the market value of the securities held by the scheme and is disclosed according to timelines prescribed by SEBI.",
+    "actions_suggestions_next_step": [
+      "Review daily NAV disclosures before making transactions.",
+      "Understand how NAV is calculated and updated.",
+      "Compare scheme performance using NAV trends along with other factors."
+    ],
+    "learning_outcome": "User understands what NAV is and how it is calculated.",
+    "feedback": null
+  },
+  {
+    "user_query": "What is cut-off timing and how does it determine the applicable NAV for mutual fund transactions?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "SEBI prescribes uniform cut-off timings for mutual fund transactions to ensure fairness. For liquid and overnight funds, purchase and switch-in transactions have a cut-off time of 1:30 PM, while redemptions and switch-outs have a cut-off time of 3:00 PM. For equity-oriented and debt funds (other than liquid and overnight funds), the cut-off time is 3:00 PM. The applicable NAV depends on the timing of application submission and when funds become available for utilization.",
+    "actions_suggestions_next_step": [
+      "Check the applicable cut-off timing before submitting a transaction.",
+      "Ensure funds are available for utilization within prescribed timelines.",
+      "Review scheme documents for transaction processing details."
+    ],
+    "learning_outcome": "User understands how cut-off timings affect the NAV applicable to mutual fund transactions.",
+    "feedback": null
+  },
+  {
+    "user_query": "What are the different types of mutual fund schemes?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Mutual fund schemes may be classified by maturity period and investment objective. Based on maturity, schemes are open-ended or close-ended. Based on investment objective, schemes include growth/equity-oriented funds, income/debt-oriented funds, balanced/hybrid funds, money market or liquid funds, gilt funds, and index funds. Each category has different risk, return, liquidity, and investment characteristics.",
+    "actions_suggestions_next_step": [
+      "Review the investment objective of a scheme before investing.",
+      "Compare scheme categories and associated risks.",
+      "Read the offer document to understand scheme features."
+    ],
+    "learning_outcome": "User can identify major categories of mutual fund schemes and their characteristics.",
+    "feedback": null
+  },
+  {
+    "user_query": "What are Sectoral Funds and Thematic Funds?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Sectoral funds invest in stocks belonging to a specific sector such as banking, information technology, or pharmaceuticals. Their performance depends on that sector. Thematic funds invest across sectors connected by a common theme such as infrastructure, energy, MNCs, or public sector undertakings. Compared to sectoral funds, thematic funds are broader in scope because they invest across multiple sectors linked to a particular theme.",
+    "actions_suggestions_next_step": [
+      "Review the investment theme or sector focus before investing.",
+      "Understand the concentration risks associated with sectoral funds.",
+      "Read scheme documents to understand portfolio allocation."
+    ],
+    "learning_outcome": "User understands the distinction between sectoral and thematic mutual funds.",
+    "feedback": null
+  },
+  {
+    "user_query": "Are there any mutual fund schemes that provide tax benefits?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Certain mutual fund schemes known as Equity Linked Savings Schemes (ELSS) are eligible for deduction under Section 80C of the Income Tax Act, 1961 under the old tax regime. Certain mutual fund retirement schemes may also qualify for tax benefits under Section 80C. The tax provisions are governed by the Income Tax Act, 1961 and may change over time.",
+    "actions_suggestions_next_step": [
+      "Refer to the latest provisions of the Income Tax Act, 1961.",
+      "Review scheme documents to understand tax-related features.",
+      "Consult official tax guidance for current eligibility provisions."
+    ],
+    "learning_outcome": "User learns which mutual fund schemes may be eligible for tax benefits.",
+    "feedback": null
+  },
+  {
+    "user_query": "What is a Fund of Funds (FoF) scheme?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "A Fund of Funds (FoF) scheme primarily invests in other schemes of the same mutual fund or other mutual funds. It provides diversification by spreading investments across multiple underlying schemes and helps distribute risk across a wider investment universe.",
+    "actions_suggestions_next_step": [
+      "Review the underlying schemes in a FoF before investing.",
+      "Understand how diversification is achieved through FoFs.",
+      "Read the scheme information document for investment details."
+    ],
+    "learning_outcome": "User understands the purpose and structure of a Fund of Funds scheme.",
+    "feedback": null
+  },
+  {
+    "user_query": "What are Exchange Traded Funds (ETFs)?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Exchange Traded Funds (ETFs) are mutual fund units that can be bought and sold on stock exchanges during trading hours. ETFs are issued to Authorised Participants who provide market liquidity through buy and sell quotes. ETF prices fluctuate throughout the trading day. Investors require both a demat account and a trading account to buy or sell ETFs.",
+    "actions_suggestions_next_step": [
+      "Understand the trading mechanism of ETFs before investing.",
+      "Ensure availability of demat and trading accounts if required.",
+      "Review ETF-related disclosures and risk factors."
+    ],
+    "learning_outcome": "User understands how ETFs function and how they differ from traditional mutual funds.",
+    "feedback": null
+  }
+]
+[
+  {
+    "user_query": "What is IDCW (Dividend Plan) in mutual funds?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "SEBI renamed the dividend option in mutual funds to Income Distribution cum Capital Withdrawal (IDCW) with effect from April 1, 2021. The change was introduced to distinguish mutual fund distributions from stock dividends and to avoid the misconception that the dividend option provides guaranteed bonus income.",
+    "actions_suggestions_next_step": [
+      "Review the scheme documents to understand IDCW features.",
+      "Compare IDCW and growth options before investing.",
+      "Refer to SEBI guidance for mutual fund terminology updates."
+    ],
+    "learning_outcome": "User understands the meaning and purpose of IDCW in mutual funds.",
+    "feedback": null
+  },
+  {
+    "user_query": "What is the timeline for transfer of IDCW and redemption proceeds to investors?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "IDCW proceeds must be paid within seven working days from the record date. Redemption or repurchase proceeds must be transferred within three working days from the date of redemption or repurchase, and within five working days for schemes investing at least 80% of total assets in permissible overseas investments. If redemption proceeds are delayed beyond the prescribed timeline, the mutual fund is liable to pay interest as specified by SEBI, currently 15% per annum, for the period of delay.",
+    "actions_suggestions_next_step": [
+      "Monitor the receipt of IDCW and redemption proceeds after a transaction.",
+      "Retain transaction records and communication from the mutual fund.",
+      "Contact the mutual fund if payments are not received within the prescribed timeline."
+    ],
+    "learning_outcome": "User learns the timelines applicable to IDCW and redemption payments.",
+    "feedback": null
+  },
+  {
+    "user_query": "Can a mutual fund change the nature of a scheme from what is specified in the offer document?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "A mutual fund may change the fundamental attributes of a scheme, such as its structure, investment pattern, or terms of issue, subject to prescribed procedures. The mutual fund must communicate the proposed changes to unit holders, publish advertisements, provide a 30-day exit window without exit load, and obtain prior approval from SEBI. Similar procedures apply when converting a close-ended scheme into an open-ended scheme.",
+    "actions_suggestions_next_step": [
+      "Review communications received from the mutual fund regarding scheme changes.",
+      "Read notices and disclosures related to fundamental attribute changes.",
+      "Understand available options during the exit window period."
+    ],
+    "learning_outcome": "User understands the process for changing the fundamental attributes of a mutual fund scheme.",
+    "feedback": null
+  },
+  {
+    "user_query": "How will an investor know about changes in a mutual fund?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Mutual funds are required to inform investors about material changes. Scheme Information Documents (SIDs) are revised and updated within one month from the end of each half-year based on information as of September and March. Material changes are communicated through addenda to the offer documents. Many mutual funds also provide newsletters and periodic updates to investors.",
+    "actions_suggestions_next_step": [
+      "Review updates and addenda issued by the mutual fund.",
+      "Read revised Scheme Information Documents when available.",
+      "Keep contact details updated to receive communications."
+    ],
+    "learning_outcome": "User learns how mutual funds communicate material changes to investors.",
+    "feedback": null
+  },
+  {
+    "user_query": "How can an investor know the performance of a mutual fund scheme?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "The performance of a mutual fund scheme is reflected through its Net Asset Value (NAV), which is disclosed daily. NAVs are available on the websites of mutual funds and AMFI. Mutual funds are also required to publish half-yearly performance results showing returns over different periods such as six months, one year, three years, five years, and since inception. Annual reports and scheme dashboards provide additional performance-related information.",
+    "actions_suggestions_next_step": [
+      "Review daily NAV disclosures and periodic performance reports.",
+      "Compare scheme performance within the same category.",
+      "Refer to annual and half-yearly reports for detailed information."
+    ],
+    "learning_outcome": "User understands the sources available for evaluating mutual fund performance.",
+    "feedback": null
+  },
+  {
+    "user_query": "How can an investor know where a mutual fund scheme has invested the money mobilized from investors?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Mutual funds are required to disclose complete portfolios of all schemes on their websites and on the AMFI website. Portfolio disclosures are made monthly within 10 days of month-end and, for debt schemes, fortnightly within 5 days of every fortnight. Portfolio statements include details of investments in securities, quantities held, market values, percentage of NAV, illiquid securities, rated and unrated debt securities, and non-performing assets where applicable.",
+    "actions_suggestions_next_step": [
+      "Review monthly or fortnightly portfolio disclosures.",
+      "Access portfolio statements through the mutual fund or AMFI website.",
+      "Request a physical copy of the portfolio statement if required."
+    ],
+    "learning_outcome": "User learns how to access information about a scheme's portfolio holdings.",
+    "feedback": null
+  },
+  {
+    "user_query": "Is there any difference between investing in a mutual fund and in an Initial Public Offering (IPO) of a company?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Yes. An IPO is issued by a company to raise funds for that specific company and its objectives. In contrast, a mutual fund pools money from investors and invests in a diversified portfolio of eligible securities such as equities, debt instruments, money market instruments, and other permitted assets.",
+    "actions_suggestions_next_step": [
+      "Understand the purpose and structure of the investment before participating.",
+      "Review the offer document of the mutual fund or IPO prospectus.",
+      "Compare the investment objectives and associated risks."
+    ],
+    "learning_outcome": "User understands the distinction between mutual fund investing and IPO investing.",
+    "feedback": null
+  },
+  {
+    "user_query": "Where can an investor look for information on mutual funds?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Investors can obtain information from mutual fund websites, where details such as NAVs, Scheme Information Documents (SIDs), Key Information Memorandums (KIMs), and portfolio disclosures are available. Information is also available on the websites of AMFI and SEBI. Newspapers, annual reports, and financial advisors may also provide information about mutual fund schemes.",
+    "actions_suggestions_next_step": [
+      "Review official mutual fund, AMFI, and SEBI websites.",
+      "Read scheme-related documents before investing.",
+      "Refer to annual reports and regulatory disclosures for additional information."
+    ],
+    "learning_outcome": "User learns where to access reliable information about mutual funds.",
+    "feedback": null
+  },
+  {
+    "user_query": "How can an investor view and claim unclaimed IDCW or redemption amounts lying in mutual fund folios?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Investors can view details of unclaimed IDCW or redemption amounts on the website of the respective mutual fund by providing information such as folio number, date of birth, and registered mobile number. The process for claiming such amounts is available on the mutual fund's website. Information regarding unclaimed amounts and their prevailing value is also disclosed through periodic statements of account and consolidated account statements.",
+    "actions_suggestions_next_step": [
+      "Visit the mutual fund's website and access the unclaimed amount section.",
+      "Keep folio and contact details available for verification.",
+      "Review account statements for information regarding unclaimed amounts."
+    ],
+    "learning_outcome": "User understands how to locate and claim unclaimed mutual fund amounts.",
+    "feedback": null
+  },
+  {
+    "user_query": "Can an investor appoint a nominee for mutual fund investments?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Yes. Mutual funds provide a nomination facility under Regulation 29A of the SEBI (Mutual Funds) Regulations, 1996. Investors must either provide nomination details or opt out through physical or online mode. A person may nominate up to three nominees and specify allocation percentages in whole numbers. Different nominees may be appointed for different schemes. Nomination is optional for jointly held folios. Certain non-individual entities such as societies, trusts, body corporates, partnership firms, Kartas of HUFs, and holders of Power of Attorney cannot nominate.",
+    "actions_suggestions_next_step": [
+      "Review nomination options available in the mutual fund account.",
+      "Update nomination details if circumstances change.",
+      "Ensure allocation percentages are specified correctly where multiple nominees are chosen."
+    ],
+    "learning_outcome": "User learns the nomination rules applicable to mutual fund investments.",
+    "feedback": null
+  },
+  {
+    "user_query": "What happens to the money invested if a mutual fund scheme is wound up?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "When a mutual fund scheme is wound up, the assets of the scheme are sold and the proceeds are used to settle liabilities and expenses connected with the winding up. The remaining balance is distributed among investors in proportion to their interest in the assets of the scheme. Unitholders are entitled to receive a report containing details of the winding-up process.",
+    "actions_suggestions_next_step": [
+      "Review communications issued during the winding-up process.",
+      "Retain records of holdings and transactions.",
+      "Read the winding-up report provided to unitholders."
+    ],
+    "learning_outcome": "User understands how assets are distributed when a mutual fund scheme is wound up.",
+    "feedback": null
+  },
+  {
+    "user_query": "Where can investors lodge complaints related to mutual funds?",
+    "domain_category": "Savings and Insurance",
+    "subdomain": "Mutual Funds",
+    "user_profile": null,
+    "answer_guidance": "Investors should first approach the concerned mutual fund or its Investor Service Centre. Details of the investor relations officer are available in the offer document and Statement of Additional Information (SAI). If the complaint is not resolved satisfactorily, investors may approach SEBI through the SEBI Complaints Redress System (SCORES) or through other prescribed complaint channels.",
+    "actions_suggestions_next_step": [
+      "Contact the mutual fund's Investor Service Centre.",
+      "Maintain records of complaint submissions and responses.",
+      "Use SCORES if the complaint remains unresolved."
+    ],
+    "learning_outcome": "User understands the complaint redressal mechanism available for mutual fund investors.",
+    "feedback": null
+  }
+]

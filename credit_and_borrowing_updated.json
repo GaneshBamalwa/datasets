@@ -40,9 +40,7 @@
     "actions_suggestions_next_step": "1. Review the education loan agreement for prepayment and moratorium provisions.\n2. Contact the lending bank directly to confirm any minimum prepayment requirements.\n3. Request details on how voluntary payments are applied to the loan balance.\n4. Keep records of all prepayments and lender communications.\n5. Monitor the outstanding loan balance and accrued interest periodically.",
     "learning_outcome": "User understands the importance of verifying education loan prepayment rules and moratorium-period repayment options directly with the lender.",
     "feedback": "User indicated an intention to contact the bank directly to verify prepayment rules rather than relying solely on a third-party advisor.",
-    "userprofile": {
-      "age_group": "Student"
-    },
+    "userprofile": "Student (Age Group)",
     "source": ""
   },
   {
@@ -53,11 +51,7 @@
     "actions_suggestions_next_step": "1. Prepare a complete list of all active loans, outstanding balances, interest rates, and monthly repayment obligations.\n2. Review the impact of existing debt obligations on monthly cash flow.\n3. Contact existing lenders to understand any available restructuring or consolidation options.\n4. Discuss debt consolidation options with banks where salary accounts are maintained.\n5. Review the terms, interest rates, fees, and repayment schedules before accepting any consolidation offer.\n6. Monitor credit reports and recent credit enquiries before submitting additional loan applications.",
     "learning_outcome": "User understands the factors involved in debt consolidation and how lenders may assess existing debt obligations and credit activity.",
     "feedback": "User clarified that, in addition to regular EMIs, significant payday loan repayments are creating a monthly repayment burden exceeding income. Community feedback emphasized prioritizing the closure of high-cost payday loans and exploring lower-cost borrowing or consolidation options before taking additional short-term loans.",
-    "userprofile": {
-      "employment_status": "Salaried",
-      "income_range": "₹50,000–₹1,00,000 monthly",
-      "credit_score_band": "Good Credit Score"
-    },
+    "userprofile": "Salaried (Employment Status) | ₹50,000–₹1,00,000 monthly (Income Range) | Good Credit Score (Credit Score Band)",
     "source": ""
   },
   {
@@ -68,13 +62,7 @@
     "actions_suggestions_next_step": "1. Check eligibility for a gold loan with RBI-regulated NBFCs or banks.\n2. Explore secured borrowing options such as loans against property or fixed deposits if available.\n3. Contact the primary banking institution for relationship-based personal loan or overdraft facilities.\n4. Compare interest rates, processing fees, and repayment terms before accepting any offer.\n5. Avoid unregulated lenders and high-cost borrowing arrangements.",
     "learning_outcome": "User understands the regulated borrowing options available for obtaining urgent funds while minimizing exposure to high-risk or unregulated lenders.",
     "feedback": "The community response favored secured borrowing options such as gold loans and property-backed loans through regulated NBFCs and banks, emphasizing fast disbursement, regulatory oversight, and reduced dependence on high-cost instant loan applications.",
-    "userprofile": {
-      "employment_status": "Not specified",
-      "credit_score_range": "630-700",
-      "loan_requirement": "Urgent funding within 24-48 hours",
-      "existing_credit_access": "Most instant loan app options already exhausted",
-      "location": "India"
-    },
+    "userprofile": "Not specified (Employment Status) | 630-700 (Credit Score Range) | Urgent funding within 24-48 hours (Loan Requirement) | Most instant loan app options already exhausted (Existing Credit Access) | India (Location)",
     "source": ""
   },
   {
@@ -85,25 +73,7 @@
     "actions_suggestions_next_step": "1. Discuss restructuring or tenure extension options with the lender.\n2. Explore refinancing opportunities that may provide a lower interest rate.\n3. Evaluate whether secured borrowing could reduce the effective borrowing cost.\n4. Pursue higher-paying employment opportunities and career advancement.\n5. Seek freelance, consulting, or part-time income opportunities aligned with existing skills.\n6. Create a detailed repayment and cash-flow plan to prioritize essential expenses.",
     "learning_outcome": "User understands potential strategies for managing a large education loan burden, including restructuring, refinancing, income growth, and long-term repayment planning.",
     "feedback": "Community feedback was largely supportive and focused on increasing income rather than liquidating essential family assets. Respondents emphasized that the borrower's income is likely to improve over time while the loan balance gradually declines, recommended pursuing additional work and future job switches, cautioned against selling the family home, and suggested exploring lower-interest refinancing or restructuring options with the lender.",
-    "userprofile": {
-      "employment_status": "Salaried",
-      "monthly_income": "₹75,000",
-      "education_loan_outstanding": "₹40 lakh",
-      "lender_type": "Education loan provider",
-      "current_emi": "₹66,000",
-      "education_background": "Master's degree from the United States",
-      "career_background": [
-        "Management Information Systems",
-        "IT",
-        "Product Management",
-        "Project Management",
-        "AI Consulting",
-        "Marketing",
-        "Sales"
-      ],
-      "financial_stress_level": "High",
-      "family_dependency": "Family previously provided financial support and experienced business difficulties"
-    },
+    "userprofile": "Salaried (Employment Status) | ₹75,000 (Monthly Income) | ₹40 lakh (Education Loan Outstanding) | Education loan provider (Lender Type) | ₹66,000 (Current Emi) | Master's degree from the United States (Education Background) | Management Information Systems / IT / Product Management / Project Management / AI Consulting / Marketing / Sales (Career Background) | High (Financial Stress Level) | Family previously provided financial support and experienced business difficulties (Family Dependency)",
     "source": ""
   },
   {
@@ -114,193 +84,73 @@
     "actions_suggestions_next_step": "1. Maintain an emergency fund before making large loan prepayments.\n2. Evaluate the interest savings from prepayment against potential liquidity needs.\n3. Periodically review whether excess cash should be allocated toward debt reduction or investments.\n4. Consider career growth and income expansion as part of a long-term repayment strategy.\n5. Assess both financial and emotional factors when determining debt repayment priorities.\n6. Track net worth and liquidity separately to avoid overestimating financial flexibility.",
     "learning_outcome": "User understands the trade-offs between rapid debt repayment, interest savings, liquidity management, and long-term financial resilience.",
     "feedback": "Community feedback emphasized that while paying off a home loan early is a significant achievement, maintaining liquidity is equally important. Commenters highlighted that home loans are typically among the lowest-cost borrowing products available, and using all available savings for prepayment may expose borrowers to expensive future borrowing if emergencies arise. The original poster agreed with this perspective and acknowledged the importance of rebuilding emergency reserves after accelerating loan repayment.",
-    "userprofile": {
-      "employment_status": "Professional",
-      "housing_status": "Homeowner",
-      "loan_type": "Home Loan",
-      "original_loan_amount": "₹53 lakh",
-      "loan_tenure_actual": "6 years",
-      "international_work_experience": "Worked abroad during repayment period",
-      "financial_behavior": [
-        "Aggressive prepayment",
-        "Long-term financial planning",
-        "High debt aversion",
-        "Strong repayment discipline"
-      ],
-      "risk_tolerance": "Moderate",
-      "financial_maturity": "High"
-    },
+    "userprofile": "Professional (Employment Status) | Homeowner (Housing Status) | Home Loan (Loan Type) | ₹53 lakh (Original Loan Amount) | 6 years (Loan Tenure Actual) | Worked abroad during repayment period (International Work Experience) | Aggressive prepayment / Long-term financial planning / High debt aversion / Strong repayment discipline (Financial Behavior) | Moderate (Risk Tolerance) | High (Financial Maturity)",
     "source": "Reddit"
   },
-{
-  "user_query": "What are the mutual fund tax rules in India for 2026, and how can investors reduce the impact of taxes on their investment returns?",
-
-  "domain_category": "Savings and Investment",
-
-  "subdomain": "Mutual Fund Taxation",
-
-  "userprofile": {
-    "investor_type": "Retail Mutual Fund Investor",
-    "investment_style": "SIP Investor",
-    "experience_level": "Beginner to Intermediate",
-    "financial_goal": "Wealth Creation and Tax Efficiency",
-    "location": "India"
-  },
-
-  "answer_guidance": "Mutual fund taxation in India depends primarily on the type of mutual fund and the holding period of the investment. For equity mutual funds, gains realized within one year of purchase are classified as Short-Term Capital Gains (STCG) and are taxed at 20%. Gains realized after one year are classified as Long-Term Capital Gains (LTCG) and are taxed at 12.5% on gains exceeding the applicable exemption threshold. For debt mutual funds, taxation rules have changed significantly, and most gains are now taxed according to the investor's applicable income tax slab rate rather than receiving indexation benefits. Investors should recognize that investment returns and post-tax returns are not the same. Two investors earning identical gross returns may ultimately retain different amounts depending on their tax planning and redemption strategy. Understanding capital gains taxation, maintaining accurate investment records, and planning withdrawals carefully can improve overall after-tax wealth creation.",
-
-  "actions_suggestions_next_step": "1. Track mutual fund purchase dates before redeeming units to determine applicable tax treatment.\n2. Understand the difference between Short-Term Capital Gains (STCG) and Long-Term Capital Gains (LTCG).\n3. Review potential tax implications before making large withdrawals or redemptions.\n4. Consider ELSS funds if tax-saving benefits under Section 80C are relevant.\n5. Maintain organized records of capital gains statements and transaction histories for ITR filing.\n6. Evaluate investment decisions based on post-tax returns rather than headline returns alone.\n7. Review tax regulations periodically, as mutual fund taxation rules may change over time.",
-
-  "learning_outcome": "User understands how mutual fund taxation works in India, including the impact of holding periods, fund categories, capital gains taxation, and tax-efficient investing strategies on long-term wealth creation.",
-
-  "feedback": "Community discussion highlighted that many investors focus heavily on returns while overlooking taxation. Investors acknowledged that understanding capital gains rules and planning withdrawals strategically can significantly improve post-tax returns and simplify income tax return filing.",
-
-  "source": "Reddit"
-},
-{
-  "user_query": "Google Play revenue is reported under my father's PAN because the developer account was originally created in his name when I was a minor, but all payments were received in my bank account. The income now exceeds ₹20 lakh and appears in my father's AIS. Should the income be reported in my father's ITR, my ITR, or both? What should be done while the Google Play account transfer to my name is still in progress?",
-
-  "domain_category": "Taxation and Compliance",
-
-  "subdomain": "Income Attribution and PAN Reporting",
-
-  "userprofile": {
-    "age_group": "Young Adult",
-    "profession": "Independent App Developer",
-    "income_source": "Google Play Revenue",
-    "business_stage": "Growing Digital Business",
-    "gst_status": "GST Registered",
-    "location": "India"
-  },
-
-  "answer_guidance": "Income reporting becomes complex when the person receiving the income and the PAN associated with the reporting platform are different. In this case, Google Play is reporting the revenue against the father's PAN, causing the entire amount to appear in the father's AIS. Tax authorities generally place significant reliance on PAN-based reporting systems when matching income information. Although the payments were credited to the son's bank account and the son carried out the development work and business activities, the mismatch between the PAN used by Google and the actual recipient may require careful documentation and professional review. Business expenses incurred in earning the income may potentially be claimed where legally permissible. Since the developer account is already being transferred to the son's name and GST registration has been obtained under the son's name, maintaining clear records of ownership, payments, expenses, and the account transfer process is important. Professional tax advice is recommended before filing returns to ensure consistency between AIS data, bank records, and business ownership documentation.",
-
-  "actions_suggestions_next_step": "1. Review all Google Play records, payment statements, bank credits, and account ownership documents.\n2. Maintain evidence showing who developed, managed, and operated the application business.\n3. Document all business-related expenses incurred in generating the revenue.\n4. Complete the transfer of the Google Play developer account and PAN details to the son's name as soon as possible.\n5. Reconcile AIS information with bank account transactions before filing income tax returns.\n6. Consult a Chartered Accountant regarding the appropriate treatment of income appearing under one PAN but received by another individual.\n7. Retain records of the account transfer process in case future clarification is required by tax authorities.",
-
-  "learning_outcome": "User understands that income attribution issues can arise when platform reporting is linked to one PAN while payments are received by another person, and that proper documentation, account regularization, and professional tax review are important before filing returns.",
-
-  "feedback": "Community responses emphasized that PAN-based reporting is a key factor in tax compliance and suggested consulting a Chartered Accountant immediately. Users also recommended updating the PAN information in Google's records and maintaining proper documentation to support the eventual transfer of business operations to the son's name.",
-
-  "source": "Reddit discussion: Payments reported in father's PAN and received in son's account - Indian Personal Finance"
-},
-{
-  "user_query": "I incorrectly reported a ₹27 lakh crypto futures loss as a non-speculative business loss in FY 2024-25 and carried it forward. I now understand that crypto futures are generally treated as speculative transactions and have incurred an additional ₹97 lakh crypto futures loss in FY 2025-26. Since the deadline for revising my earlier return has passed, how should I file my current return, what options exist to correct the previous year's classification, and what are the risks of scrutiny, penalties, or tax notices?",
-
-  "domain_category": "Taxation and Compliance",
-
-  "subdomain": "Cryptocurrency Taxation and Loss Carry Forward",
-
-  "userprofile": {
-    "investor_type": "Active Crypto Trader",
-    "income_sources": [
-      "Salary",
-      "Crypto Trading",
-      "Staking Rewards",
-      "Interest Income",
-      "Capital Gains"
-    ],
-    "trading_activity": "Crypto Futures and Spot Trading",
-    "loss_magnitude": "High",
-    "platforms_used": [
-      "CoinDCX"
-    ],
-    "compliance_concern": "Loss Classification and Carry Forward",
-    "location": "India"
-  },
-
-  "answer_guidance": "Each assessment year is evaluated independently, and a taxpayer is not necessarily required to maintain identical classifications across years when the legal position remains uncertain. The primary issue is not that the two returns differ, but whether the ₹27 lakh loss carried forward from FY 2024-25 was classified under the correct head of income. Many tax professionals currently view cash-settled crypto futures as speculative business transactions rather than Virtual Digital Asset transfers, although the tax treatment remains an evolving area with limited official clarification. For FY 2025-26, the taxpayer may consider reporting the ₹97 lakh crypto futures loss under the speculative business income provisions if that reflects the current understanding of the law. Since speculative losses are subject to specific carry-forward conditions, timely filing of the return is critical. Revising the FY 2024-25 return may no longer be possible if the revision deadline has expired. However, professional review may be required to determine whether an Updated Return (ITR-U) or another corrective mechanism can appropriately address the earlier classification issue. Penalties are generally more closely associated with under-reporting or misreporting of income than with a genuine classification error made in a legally uncertain area. Maintaining complete documentation and proactively correcting mistakes where possible can significantly strengthen the taxpayer's position in the event of future scrutiny.",
-
-  "actions_suggestions_next_step": "1. File the FY 2025-26 return before the original due date to preserve any eligible speculative loss carry-forward benefits.\n2. Gather all crypto trading records, exchange statements, tax reports, and previous ITR filings.\n3. Review whether the FY 2024-25 classification error can be addressed through an Updated Return (ITR-U) or other available compliance mechanism.\n4. Consult a Chartered Accountant experienced in cryptocurrency taxation and loss carry-forward provisions.\n5. Verify the tax treatment of crypto futures based on the facts of the transactions and prevailing professional interpretations.\n6. Reconcile all reported gains, losses, staking income, TDS deductions, and exchange records before filing.\n7. Confirm whether any foreign exchange accounts, offshore exchanges, or foreign assets require disclosure under applicable reporting requirements.\n8. Maintain written documentation supporting the basis for the classification adopted in each financial year.\n9. Ensure future crypto transactions are consistently documented and reported under the most defensible tax position available.",
-
-  "learning_outcome": "User understands that differing tax treatment across assessment years does not automatically create a compliance violation, that crypto futures taxation remains a developing area, that speculative loss carry-forward rules have strict filing requirements, and that correcting classification issues proactively can reduce future compliance risks.",
-
-  "feedback": "Community feedback emphasized that the larger concern is the validity of the FY 2024-25 loss carry-forward rather than the inconsistency between years. Respondents recommended filing the FY 2025-26 loss according to the taxpayer's current understanding of the law, preserving carry-forward eligibility through timely filing, and seeking professional assistance regarding potential correction of the earlier return. The taxpayer clarified that all trading activity occurred on CoinDCX and not on offshore exchanges, reducing concerns regarding foreign asset disclosure obligations.",
-
-  "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/1toq1ub/need_ca_advice_incorrectly_filed_crypto_futures/"
-},
-{
-  "user_query": "My sister is planning to pursue a medical postgraduate degree with total tuition fees of approximately ₹60 lakh over three years. We are considering taking a ₹20 lakh gold loan to pay the initial admission fees and then applying for a ₹60 lakh SBI education loan. Once the education loan is disbursed, we plan to repay the gold loan using part of the education loan amount. Is this a financially sound strategy? Would taking the entire amount as a gold loan be better? What risks, repayment considerations, and loan features should we evaluate? Also, do female students receive any interest concession on SBI education loans?",
-
-  "domain_category": "Credit and Borrowing",
-
-  "subdomain": "Education Loan Planning",
-
-  "userprofile": {
-    "borrower_type": "Student",
-    "education_level": "Medical Postgraduate Program",
-    "loan_requirement": "₹60 Lakh",
-    "funding_gap": "Initial Admission Fees",
-    "collateral_available": "Gold",
-    "lender_preference": "SBI",
-    "location": "India"
-  },
-
-  "answer_guidance": "Using a short-term gold loan to bridge an immediate admission fee requirement while waiting for education loan approval can be a practical financing strategy. Education loans are generally designed to support higher education expenses and typically provide benefits such as a moratorium period during study, longer repayment tenures, and repayment structures aligned with future earning capacity. In contrast, gold loans usually require repayment over a shorter tenure and may create immediate cash-flow pressure. Taking the entire ₹60 lakh requirement through a gold loan would generally expose the borrower to higher liquidity risk because repayment obligations begin immediately and may place significant strain on household finances during the study period. Education loans also provide certain tax benefits and may offer special concessions depending on the lender's prevailing policies. Since education loan disbursements are often made semester-wise or year-wise, borrowers should carefully coordinate the timing of admission payments, loan sanctions, and subsequent disbursements. Female students may be eligible for interest concessions under certain SBI education loan schemes, but the applicable concession, eligibility criteria, and effective interest rate should always be verified directly from the sanction letter and current loan terms.",
-
-  "actions_suggestions_next_step": "1. Apply for the SBI education loan as early as possible before admission deadlines.\n2. Use a gold loan only if an immediate funding gap exists and education loan disbursement may be delayed.\n3. Confirm whether the education loan permits reimbursement of already paid educational expenses.\n4. Review the education loan sanction letter carefully for interest rate, moratorium period, repayment tenure, and collateral requirements.\n5. Compare the total borrowing cost of the temporary gold loan against alternative short-term funding options.\n6. Verify whether the student qualifies for any female borrower interest concession under the applicable SBI education loan scheme.\n7. Understand the schedule of future fee payments and ensure that loan disbursements align with institutional payment deadlines.\n8. Evaluate future repayment affordability based on expected post-graduation income and career prospects.\n9. Maintain adequate emergency funds to handle delays in loan approval or disbursement.",
-
-  "learning_outcome": "User understands the differences between education loans and gold loans, the benefits of education-loan-specific features such as moratorium periods and longer repayment tenures, the risks of relying entirely on gold loans for educational funding, and the importance of coordinating loan disbursements with academic fee schedules.",
-
-  "feedback": "Community responses generally supported using a temporary gold loan only to bridge the initial admission payment if necessary while prioritizing the education loan for long-term funding. Respondents highlighted that education loans provide repayment flexibility, potential tax benefits, and reduced liquidity stress compared with large gold loans. Community members also noted that certain SBI education loan schemes may provide interest concessions for female students, subject to eligibility and current policy terms.",
-
-  "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/1r6vn6z/advice_on_education_loan_from_sbi/"
-},
   {
-  "user_query": "I have multiple personal loans and credit card EMIs across different lenders. My monthly income is around ₹60,000, while my total EMI burden is approximately ₹35,000 and living expenses consume another ₹25,000. I am considering taking a new ₹10 lakh personal loan to consolidate existing debts, reduce the number of EMIs, simplify repayments, and keep some additional cash for future expenses. However, my employer has limited financial documentation and is not widely recognized by banks. Is debt consolidation through a new loan a good idea, and what alternatives should I consider to improve my financial situation?",
-
-  "domain_category": "Credit and Borrowing",
-
-  "subdomain": "Debt Consolidation and Debt Management",
-
-  "userprofile": {
-    "employment_status": "Salaried",
-    "monthly_income": "₹60,000",
-    "existing_loan_types": [
-      "Personal Loan",
-      "Loan Against Credit Card",
-      "Credit Card EMI",
-      "Peer-to-Peer Loan"
-    ],
-    "monthly_emi_burden": "₹35,000",
-    "financial_stress_level": "High",
-    "primary_financial_goal": "Reduce EMI burden and simplify debt repayment",
-    "location": "India"
+    "user_query": "What are the mutual fund tax rules in India for 2026, and how can investors reduce the impact of taxes on their investment returns?",
+    "domain_category": "Savings and Investment",
+    "subdomain": "Mutual Fund Taxation",
+    "userprofile": "Retail Mutual Fund Investor (Investor Type) | SIP Investor (Investment Style) | Beginner to Intermediate (Experience Level) | Wealth Creation and Tax Efficiency (Financial Goal) | India (Location)",
+    "answer_guidance": "Mutual fund taxation in India depends primarily on the type of mutual fund and the holding period of the investment. For equity mutual funds, gains realized within one year of purchase are classified as Short-Term Capital Gains (STCG) and are taxed at 20%. Gains realized after one year are classified as Long-Term Capital Gains (LTCG) and are taxed at 12.5% on gains exceeding the applicable exemption threshold. For debt mutual funds, taxation rules have changed significantly, and most gains are now taxed according to the investor's applicable income tax slab rate rather than receiving indexation benefits. Investors should recognize that investment returns and post-tax returns are not the same. Two investors earning identical gross returns may ultimately retain different amounts depending on their tax planning and redemption strategy. Understanding capital gains taxation, maintaining accurate investment records, and planning withdrawals carefully can improve overall after-tax wealth creation.",
+    "actions_suggestions_next_step": "1. Track mutual fund purchase dates before redeeming units to determine applicable tax treatment.\n2. Understand the difference between Short-Term Capital Gains (STCG) and Long-Term Capital Gains (LTCG).\n3. Review potential tax implications before making large withdrawals or redemptions.\n4. Consider ELSS funds if tax-saving benefits under Section 80C are relevant.\n5. Maintain organized records of capital gains statements and transaction histories for ITR filing.\n6. Evaluate investment decisions based on post-tax returns rather than headline returns alone.\n7. Review tax regulations periodically, as mutual fund taxation rules may change over time.",
+    "learning_outcome": "User understands how mutual fund taxation works in India, including the impact of holding periods, fund categories, capital gains taxation, and tax-efficient investing strategies on long-term wealth creation.",
+    "feedback": "Community discussion highlighted that many investors focus heavily on returns while overlooking taxation. Investors acknowledged that understanding capital gains rules and planning withdrawals strategically can significantly improve post-tax returns and simplify income tax return filing.",
+    "source": "Reddit"
   },
-
-  "answer_guidance": "The primary challenge in this situation is cash-flow stress rather than simply having multiple loans. With monthly EMIs consuming a significant portion of income and living expenses absorbing the remainder, there is very little financial flexibility available. Debt consolidation can be beneficial if a new loan meaningfully reduces the monthly repayment burden, lowers the overall interest cost, and is used exclusively to close existing debts. However, obtaining a large unsecured loan may be difficult when the borrower's debt obligations are already high relative to income and employer verification requirements are weak. Taking additional funds beyond the amount needed for consolidation can increase financial risk if the extra cash is not carefully managed. Before seeking new borrowing, borrowers should evaluate restructuring options with existing lenders, longer repayment tenures, or conversion of credit card balances into structured repayment plans. Improving cash flow and reducing debt obligations should generally take priority over obtaining additional discretionary borrowing.",
-
-  "actions_suggestions_next_step": "1. Prepare a complete list of all loans, outstanding balances, interest rates, remaining tenure, and monthly EMI obligations.\n2. Calculate whether a consolidation loan would genuinely reduce monthly EMI obligations and total repayment costs.\n3. Contact existing lenders to explore restructuring, tenure extension, or balance conversion options.\n4. Review credit card EMI accounts and evaluate whether lower-cost repayment arrangements are available.\n5. Avoid borrowing additional discretionary cash beyond the amount required for debt consolidation.\n6. Verify eligibility for a consolidation loan before submitting multiple applications that may affect credit history.\n7. Prepare salary slips, bank statements, and employment documentation to strengthen future loan applications.\n8. Create a monthly budget focused on maintaining essential expenses while accelerating debt reduction.\n9. Build an emergency reserve once the debt burden begins to decline to avoid future reliance on high-cost borrowing.",
-
-  "learning_outcome": "User understands that cash-flow management is the primary issue, that debt consolidation is only beneficial when it reduces repayment pressure and borrowing costs, and that restructuring existing obligations may sometimes be a more practical solution than taking on additional debt.",
-
-  "feedback": "Community feedback emphasized that the current debt-to-income ratio may make approval for a large unsecured loan difficult. Respondents noted that debt consolidation can be useful if it lowers repayment obligations, but warned against borrowing additional cash beyond consolidation requirements. Community members also suggested exploring restructuring options and credit card repayment plans before seeking new borrowing.",
-
-  "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/1tbwkld/need_advice_about_loans_and_finaces/"
-},
   {
-  "user_query": "I have a ₹65 lakh home loan for an under-construction property and another bank is offering a lower interest rate through a home loan balance transfer. However, I already paid approximately ₹1.2 lakh as a lump-sum premium for a home loan protection insurance policy with my current lender. If I transfer the loan, can the existing insurance policy be transferred to the new bank, or can I receive a pro-rata refund for the unused period? Will the new bank require a fresh insurance policy, and how should I evaluate whether the balance transfer is financially worthwhile? Additionally, are there any complications related to tripartite agreements with the builder during the transfer process?",
-
-  "domain_category": "Credit and Borrowing",
-
-  "subdomain": "Home Loan Balance Transfer",
-
-  "userprofile": {
-    "borrower_type": "Home Loan Borrower",
-    "property_status": "Under Construction",
-    "loan_amount": "₹65 Lakh",
-    "objective": "Reduce Interest Cost Through Balance Transfer",
-    "existing_insurance": "Home Loan Protection Plan",
-    "location": "Delhi-NCR"
+    "user_query": "Google Play revenue is reported under my father's PAN because the developer account was originally created in his name when I was a minor, but all payments were received in my bank account. The income now exceeds ₹20 lakh and appears in my father's AIS. Should the income be reported in my father's ITR, my ITR, or both? What should be done while the Google Play account transfer to my name is still in progress?",
+    "domain_category": "Taxation and Compliance",
+    "subdomain": "Income Attribution and PAN Reporting",
+    "userprofile": "Young Adult (Age Group) | Independent App Developer (Profession) | Google Play Revenue (Income Source) | Growing Digital Business (Business Stage) | GST Registered (Gst Status) | India (Location)",
+    "answer_guidance": "Income reporting becomes complex when the person receiving the income and the PAN associated with the reporting platform are different. In this case, Google Play is reporting the revenue against the father's PAN, causing the entire amount to appear in the father's AIS. Tax authorities generally place significant reliance on PAN-based reporting systems when matching income information. Although the payments were credited to the son's bank account and the son carried out the development work and business activities, the mismatch between the PAN used by Google and the actual recipient may require careful documentation and professional review. Business expenses incurred in earning the income may potentially be claimed where legally permissible. Since the developer account is already being transferred to the son's name and GST registration has been obtained under the son's name, maintaining clear records of ownership, payments, expenses, and the account transfer process is important. Professional tax advice is recommended before filing returns to ensure consistency between AIS data, bank records, and business ownership documentation.",
+    "actions_suggestions_next_step": "1. Review all Google Play records, payment statements, bank credits, and account ownership documents.\n2. Maintain evidence showing who developed, managed, and operated the application business.\n3. Document all business-related expenses incurred in generating the revenue.\n4. Complete the transfer of the Google Play developer account and PAN details to the son's name as soon as possible.\n5. Reconcile AIS information with bank account transactions before filing income tax returns.\n6. Consult a Chartered Accountant regarding the appropriate treatment of income appearing under one PAN but received by another individual.\n7. Retain records of the account transfer process in case future clarification is required by tax authorities.",
+    "learning_outcome": "User understands that income attribution issues can arise when platform reporting is linked to one PAN while payments are received by another person, and that proper documentation, account regularization, and professional tax review are important before filing returns.",
+    "feedback": "Community responses emphasized that PAN-based reporting is a key factor in tax compliance and suggested consulting a Chartered Accountant immediately. Users also recommended updating the PAN information in Google's records and maintaining proper documentation to support the eventual transfer of business operations to the son's name.",
+    "source": "Reddit discussion: Payments reported in father's PAN and received in son's account - Indian Personal Finance"
   },
-
-  "answer_guidance": "A home loan balance transfer can reduce borrowing costs if the interest rate reduction generates savings that exceed all transfer-related expenses. However, borrowers should evaluate the complete financial impact rather than focusing solely on the lower interest rate. Home loan protection insurance policies are often linked to a specific lender and loan account, which may limit transferability. Depending on the policy terms and insurer provisions, the borrower may need to either continue the existing policy independently, seek an endorsement, or apply for a refund of the unused premium. Some insurance providers may allow a pro-rata refund for the remaining policy period, while others may not. The insurer's policy document and terms and conditions are more important than the lender's internal policy in determining refund eligibility. The new lender may also require a fresh insurance policy depending on its underwriting and loan requirements. In addition to insurance costs, borrowers should account for processing fees, legal charges, administrative expenses, and any documentation requirements related to the under-construction property. For properties under construction, coordination between the builder, current lender, and new lender may be required to execute fresh tripartite agreements and update financing records.",
-
-  "actions_suggestions_next_step": "1. Request a detailed amortization comparison showing total interest savings from the proposed balance transfer.\n2. Review the existing insurance policy document and refund clauses carefully.\n3. Contact the insurance company directly to determine whether endorsement, continuation, portability, or pro-rata refund options are available.\n4. Obtain written confirmation from the new lender regarding mandatory insurance requirements.\n5. Calculate the net benefit after considering insurance costs, processing fees, legal charges, and administrative expenses.\n6. Verify whether the builder has experience handling loan balance transfers for under-construction projects.\n7. Confirm the documentation requirements for executing a new tripartite agreement if required.\n8. Compare the effective cost savings over the remaining loan tenure before making a final decision.\n9. Retain all communications from lenders, insurers, and the builder for future reference.",
-
-  "learning_outcome": "User understands that the success of a home loan balance transfer depends on total net savings after accounting for insurance, fees, and administrative costs. The user also learns that insurance portability and refund eligibility depend primarily on the insurer's policy terms rather than the lender alone.",
-
-  "feedback": "Community responses highlighted differing experiences regarding insurance treatment during home loan balance transfers. Some borrowers reported that lender-linked insurance premiums could not be recovered after transfer, while others noted that insurance providers may offer pro-rata refunds for the unused portion of the policy. Respondents emphasized performing a detailed cost-benefit analysis before proceeding with the transfer and consulting the insurance provider directly regarding refund eligibility.",
-
-  "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/.../switching_my_home_loan_lender_for_an_underconstruction_flat/"
-}
+  {
+    "user_query": "I incorrectly reported a ₹27 lakh crypto futures loss as a non-speculative business loss in FY 2024-25 and carried it forward. I now understand that crypto futures are generally treated as speculative transactions and have incurred an additional ₹97 lakh crypto futures loss in FY 2025-26. Since the deadline for revising my earlier return has passed, how should I file my current return, what options exist to correct the previous year's classification, and what are the risks of scrutiny, penalties, or tax notices?",
+    "domain_category": "Taxation and Compliance",
+    "subdomain": "Cryptocurrency Taxation and Loss Carry Forward",
+    "userprofile": "Active Crypto Trader (Investor Type) | Salary / Crypto Trading / Staking Rewards / Interest Income / Capital Gains (Income Sources) | Crypto Futures and Spot Trading (Trading Activity) | High (Loss Magnitude) | CoinDCX (Platforms Used) | Loss Classification and Carry Forward (Compliance Concern) | India (Location)",
+    "answer_guidance": "Each assessment year is evaluated independently, and a taxpayer is not necessarily required to maintain identical classifications across years when the legal position remains uncertain. The primary issue is not that the two returns differ, but whether the ₹27 lakh loss carried forward from FY 2024-25 was classified under the correct head of income. Many tax professionals currently view cash-settled crypto futures as speculative business transactions rather than Virtual Digital Asset transfers, although the tax treatment remains an evolving area with limited official clarification. For FY 2025-26, the taxpayer may consider reporting the ₹97 lakh crypto futures loss under the speculative business income provisions if that reflects the current understanding of the law. Since speculative losses are subject to specific carry-forward conditions, timely filing of the return is critical. Revising the FY 2024-25 return may no longer be possible if the revision deadline has expired. However, professional review may be required to determine whether an Updated Return (ITR-U) or another corrective mechanism can appropriately address the earlier classification issue. Penalties are generally more closely associated with under-reporting or misreporting of income than with a genuine classification error made in a legally uncertain area. Maintaining complete documentation and proactively correcting mistakes where possible can significantly strengthen the taxpayer's position in the event of future scrutiny.",
+    "actions_suggestions_next_step": "1. File the FY 2025-26 return before the original due date to preserve any eligible speculative loss carry-forward benefits.\n2. Gather all crypto trading records, exchange statements, tax reports, and previous ITR filings.\n3. Review whether the FY 2024-25 classification error can be addressed through an Updated Return (ITR-U) or other available compliance mechanism.\n4. Consult a Chartered Accountant experienced in cryptocurrency taxation and loss carry-forward provisions.\n5. Verify the tax treatment of crypto futures based on the facts of the transactions and prevailing professional interpretations.\n6. Reconcile all reported gains, losses, staking income, TDS deductions, and exchange records before filing.\n7. Confirm whether any foreign exchange accounts, offshore exchanges, or foreign assets require disclosure under applicable reporting requirements.\n8. Maintain written documentation supporting the basis for the classification adopted in each financial year.\n9. Ensure future crypto transactions are consistently documented and reported under the most defensible tax position available.",
+    "learning_outcome": "User understands that differing tax treatment across assessment years does not automatically create a compliance violation, that crypto futures taxation remains a developing area, that speculative loss carry-forward rules have strict filing requirements, and that correcting classification issues proactively can reduce future compliance risks.",
+    "feedback": "Community feedback emphasized that the larger concern is the validity of the FY 2024-25 loss carry-forward rather than the inconsistency between years. Respondents recommended filing the FY 2025-26 loss according to the taxpayer's current understanding of the law, preserving carry-forward eligibility through timely filing, and seeking professional assistance regarding potential correction of the earlier return. The taxpayer clarified that all trading activity occurred on CoinDCX and not on offshore exchanges, reducing concerns regarding foreign asset disclosure obligations.",
+    "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/1toq1ub/need_ca_advice_incorrectly_filed_crypto_futures/"
+  },
+  {
+    "user_query": "My sister is planning to pursue a medical postgraduate degree with total tuition fees of approximately ₹60 lakh over three years. We are considering taking a ₹20 lakh gold loan to pay the initial admission fees and then applying for a ₹60 lakh SBI education loan. Once the education loan is disbursed, we plan to repay the gold loan using part of the education loan amount. Is this a financially sound strategy? Would taking the entire amount as a gold loan be better? What risks, repayment considerations, and loan features should we evaluate? Also, do female students receive any interest concession on SBI education loans?",
+    "domain_category": "Credit and Borrowing",
+    "subdomain": "Education Loan Planning",
+    "userprofile": "Student (Borrower Type) | Medical Postgraduate Program (Education Level) | ₹60 Lakh (Loan Requirement) | Initial Admission Fees (Funding Gap) | Gold (Collateral Available) | SBI (Lender Preference) | India (Location)",
+    "answer_guidance": "Using a short-term gold loan to bridge an immediate admission fee requirement while waiting for education loan approval can be a practical financing strategy. Education loans are generally designed to support higher education expenses and typically provide benefits such as a moratorium period during study, longer repayment tenures, and repayment structures aligned with future earning capacity. In contrast, gold loans usually require repayment over a shorter tenure and may create immediate cash-flow pressure. Taking the entire ₹60 lakh requirement through a gold loan would generally expose the borrower to higher liquidity risk because repayment obligations begin immediately and may place significant strain on household finances during the study period. Education loans also provide certain tax benefits and may offer special concessions depending on the lender's prevailing policies. Since education loan disbursements are often made semester-wise or year-wise, borrowers should carefully coordinate the timing of admission payments, loan sanctions, and subsequent disbursements. Female students may be eligible for interest concessions under certain SBI education loan schemes, but the applicable concession, eligibility criteria, and effective interest rate should always be verified directly from the sanction letter and current loan terms.",
+    "actions_suggestions_next_step": "1. Apply for the SBI education loan as early as possible before admission deadlines.\n2. Use a gold loan only if an immediate funding gap exists and education loan disbursement may be delayed.\n3. Confirm whether the education loan permits reimbursement of already paid educational expenses.\n4. Review the education loan sanction letter carefully for interest rate, moratorium period, repayment tenure, and collateral requirements.\n5. Compare the total borrowing cost of the temporary gold loan against alternative short-term funding options.\n6. Verify whether the student qualifies for any female borrower interest concession under the applicable SBI education loan scheme.\n7. Understand the schedule of future fee payments and ensure that loan disbursements align with institutional payment deadlines.\n8. Evaluate future repayment affordability based on expected post-graduation income and career prospects.\n9. Maintain adequate emergency funds to handle delays in loan approval or disbursement.",
+    "learning_outcome": "User understands the differences between education loans and gold loans, the benefits of education-loan-specific features such as moratorium periods and longer repayment tenures, the risks of relying entirely on gold loans for educational funding, and the importance of coordinating loan disbursements with academic fee schedules.",
+    "feedback": "Community responses generally supported using a temporary gold loan only to bridge the initial admission payment if necessary while prioritizing the education loan for long-term funding. Respondents highlighted that education loans provide repayment flexibility, potential tax benefits, and reduced liquidity stress compared with large gold loans. Community members also noted that certain SBI education loan schemes may provide interest concessions for female students, subject to eligibility and current policy terms.",
+    "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/1r6vn6z/advice_on_education_loan_from_sbi/"
+  },
+  {
+    "user_query": "I have multiple personal loans and credit card EMIs across different lenders. My monthly income is around ₹60,000, while my total EMI burden is approximately ₹35,000 and living expenses consume another ₹25,000. I am considering taking a new ₹10 lakh personal loan to consolidate existing debts, reduce the number of EMIs, simplify repayments, and keep some additional cash for future expenses. However, my employer has limited financial documentation and is not widely recognized by banks. Is debt consolidation through a new loan a good idea, and what alternatives should I consider to improve my financial situation?",
+    "domain_category": "Credit and Borrowing",
+    "subdomain": "Debt Consolidation and Debt Management",
+    "userprofile": "Salaried (Employment Status) | ₹60,000 (Monthly Income) | Personal Loan / Loan Against Credit Card / Credit Card EMI / Peer-to-Peer Loan (Existing Loan Types) | ₹35,000 (Monthly Emi Burden) | High (Financial Stress Level) | Reduce EMI burden and simplify debt repayment (Primary Financial Goal) | India (Location)",
+    "answer_guidance": "The primary challenge in this situation is cash-flow stress rather than simply having multiple loans. With monthly EMIs consuming a significant portion of income and living expenses absorbing the remainder, there is very little financial flexibility available. Debt consolidation can be beneficial if a new loan meaningfully reduces the monthly repayment burden, lowers the overall interest cost, and is used exclusively to close existing debts. However, obtaining a large unsecured loan may be difficult when the borrower's debt obligations are already high relative to income and employer verification requirements are weak. Taking additional funds beyond the amount needed for consolidation can increase financial risk if the extra cash is not carefully managed. Before seeking new borrowing, borrowers should evaluate restructuring options with existing lenders, longer repayment tenures, or conversion of credit card balances into structured repayment plans. Improving cash flow and reducing debt obligations should generally take priority over obtaining additional discretionary borrowing.",
+    "actions_suggestions_next_step": "1. Prepare a complete list of all loans, outstanding balances, interest rates, remaining tenure, and monthly EMI obligations.\n2. Calculate whether a consolidation loan would genuinely reduce monthly EMI obligations and total repayment costs.\n3. Contact existing lenders to explore restructuring, tenure extension, or balance conversion options.\n4. Review credit card EMI accounts and evaluate whether lower-cost repayment arrangements are available.\n5. Avoid borrowing additional discretionary cash beyond the amount required for debt consolidation.\n6. Verify eligibility for a consolidation loan before submitting multiple applications that may affect credit history.\n7. Prepare salary slips, bank statements, and employment documentation to strengthen future loan applications.\n8. Create a monthly budget focused on maintaining essential expenses while accelerating debt reduction.\n9. Build an emergency reserve once the debt burden begins to decline to avoid future reliance on high-cost borrowing.",
+    "learning_outcome": "User understands that cash-flow management is the primary issue, that debt consolidation is only beneficial when it reduces repayment pressure and borrowing costs, and that restructuring existing obligations may sometimes be a more practical solution than taking on additional debt.",
+    "feedback": "Community feedback emphasized that the current debt-to-income ratio may make approval for a large unsecured loan difficult. Respondents noted that debt consolidation can be useful if it lowers repayment obligations, but warned against borrowing additional cash beyond consolidation requirements. Community members also suggested exploring restructuring options and credit card repayment plans before seeking new borrowing.",
+    "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/1tbwkld/need_advice_about_loans_and_finaces/"
+  },
+  {
+    "user_query": "I have a ₹65 lakh home loan for an under-construction property and another bank is offering a lower interest rate through a home loan balance transfer. However, I already paid approximately ₹1.2 lakh as a lump-sum premium for a home loan protection insurance policy with my current lender. If I transfer the loan, can the existing insurance policy be transferred to the new bank, or can I receive a pro-rata refund for the unused period? Will the new bank require a fresh insurance policy, and how should I evaluate whether the balance transfer is financially worthwhile? Additionally, are there any complications related to tripartite agreements with the builder during the transfer process?",
+    "domain_category": "Credit and Borrowing",
+    "subdomain": "Home Loan Balance Transfer",
+    "userprofile": "Home Loan Borrower (Borrower Type) | Under Construction (Property Status) | ₹65 Lakh (Loan Amount) | Reduce Interest Cost Through Balance Transfer (Objective) | Home Loan Protection Plan (Existing Insurance) | Delhi-NCR (Location)",
+    "answer_guidance": "A home loan balance transfer can reduce borrowing costs if the interest rate reduction generates savings that exceed all transfer-related expenses. However, borrowers should evaluate the complete financial impact rather than focusing solely on the lower interest rate. Home loan protection insurance policies are often linked to a specific lender and loan account, which may limit transferability. Depending on the policy terms and insurer provisions, the borrower may need to either continue the existing policy independently, seek an endorsement, or apply for a refund of the unused premium. Some insurance providers may allow a pro-rata refund for the remaining policy period, while others may not. The insurer's policy document and terms and conditions are more important than the lender's internal policy in determining refund eligibility. The new lender may also require a fresh insurance policy depending on its underwriting and loan requirements. In addition to insurance costs, borrowers should account for processing fees, legal charges, administrative expenses, and any documentation requirements related to the under-construction property. For properties under construction, coordination between the builder, current lender, and new lender may be required to execute fresh tripartite agreements and update financing records.",
+    "actions_suggestions_next_step": "1. Request a detailed amortization comparison showing total interest savings from the proposed balance transfer.\n2. Review the existing insurance policy document and refund clauses carefully.\n3. Contact the insurance company directly to determine whether endorsement, continuation, portability, or pro-rata refund options are available.\n4. Obtain written confirmation from the new lender regarding mandatory insurance requirements.\n5. Calculate the net benefit after considering insurance costs, processing fees, legal charges, and administrative expenses.\n6. Verify whether the builder has experience handling loan balance transfers for under-construction projects.\n7. Confirm the documentation requirements for executing a new tripartite agreement if required.\n8. Compare the effective cost savings over the remaining loan tenure before making a final decision.\n9. Retain all communications from lenders, insurers, and the builder for future reference.",
+    "learning_outcome": "User understands that the success of a home loan balance transfer depends on total net savings after accounting for insurance, fees, and administrative costs. The user also learns that insurance portability and refund eligibility depend primarily on the insurer's policy terms rather than the lender alone.",
+    "feedback": "Community responses highlighted differing experiences regarding insurance treatment during home loan balance transfers. Some borrowers reported that lender-linked insurance premiums could not be recovered after transfer, while others noted that insurance providers may offer pro-rata refunds for the unused portion of the policy. Respondents emphasized performing a detailed cost-benefit analysis before proceeding with the transfer and consulting the insurance provider directly regarding refund eligibility.",
+    "source": "https://www.reddit.com/r/IndianPersonalFinance/comments/.../switching_my_home_loan_lender_for_an_underconstruction_flat/"
+  }
 ]
